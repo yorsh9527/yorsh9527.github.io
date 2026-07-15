@@ -5,7 +5,70 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>每日新闻日报</title>
   <style>
-    :root{--ink:#152033;--muted:#65748b;--line:#e5eaf2;--blue:#2563eb}*{box-sizing:border-box}body{margin:0;background:#f6f8fc;color:var(--ink);font:16px/1.65 system-ui,-apple-system,"Microsoft YaHei",sans-serif}.wrap{max-width:780px;margin:auto;padding:56px 22px}header{padding:34px;background:linear-gradient(125deg,#111827,#1e3a8a);border-radius:20px;color:#fff}h1{margin:0;font-size:34px}.sub{margin:8px 0 0;color:#dbeafe}.card{margin-top:22px;padding:22px;background:#fff;border:1px solid var(--line);border-radius:16px}.card h2{margin:0 0 8px;font-size:19px}.card p{color:var(--muted)}a.report{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-top:14px;padding:16px 18px;border:1px solid #cfe0ff;border-radius:12px;background:#f7faff;color:var(--blue);text-decoration:none;font-weight:650}a.report:hover{background:#edf4ff}.hint{margin-top:24px;color:var(--muted);font-size:13px}</style>
+    :root{--ink:#152033;--muted:#65748b;--line:#e5eaf2;--blue:#2563eb;--paper:#fff;--bg:#f6f8fc}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 system-ui,-apple-system,"Microsoft YaHei",sans-serif}
+    .wrap{max-width:780px;margin:auto;padding:56px 22px}
+    header{padding:34px;background:linear-gradient(125deg,#111827,#1e3a8a);border-radius:20px;color:#fff}
+    h1{margin:0;font-size:34px}.sub{margin:8px 0 0;color:#dbeafe}
+    .section{margin-top:24px}
+    .section-title{margin:0 0 14px;font-size:20px;font-weight:700;color:var(--ink)}
+    /* 最新日报卡片 */
+    .latest-card{margin-top:22px;padding:24px;background:var(--paper);border:2px solid var(--blue);border-radius:16px;box-shadow:0 4px 20px rgba(37,99,235,.08)}
+    .latest-card .badge{display:inline-block;margin-bottom:10px;padding:3px 10px;border-radius:99px;background:#eff6ff;color:var(--blue);font-size:12px;font-weight:650}
+    .latest-card h2{margin:0;font-size:21px}
+    .latest-card .desc{margin:8px 0 0;color:var(--muted);font-size:14px}
+    a.report{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-top:12px;padding:14px 16px;border:1px solid #cfe0ff;border-radius:12px;background:#f7faff;color:var(--blue);text-decoration:none;font-weight:650;transition:background .15s}
+    a.report:hover{background:#edf4ff}
+    /* 历史列表 */
+    .history-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+    .history-list li{padding:0;background:var(--paper);border:1px solid var(--line);border-radius:12px;transition:box-shadow .15s}
+    .history-list li:hover{box-shadow:0 2px 12px rgba(15,23,42,.06)}
+    .history-list a{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;color:var(--ink);text-decoration:none;font-weight:600}
+    .history-list a .arrow{color:var(--blue);font-weight:400;font-size:14px}
+    .history-list .date-label{color:var(--muted);font-size:13px;font-weight:400}
+    .footer-note{margin-top:32px;text-align:center;color:var(--muted);font-size:13px}
+  </style>
 </head>
-<body><main class="wrap"><header><h1>每日新闻日报</h1><p class="sub">AI · 国际 · 电力能源 · A股 · 其他领域</p></header><section class="card"><h2>最新一期</h2><p>每日早上 7:30 更新，汇总前一自然日的重要新闻。</p><a class="report" href="daily-pages/2026-07-14.html"><span>2026 年 7 月 14 日日报</span><span>阅读 →</span></a></section><p class="hint">历史日报将持续归档于 daily-pages 目录。</p></main></body>
+<body>
+<main class="wrap">
+  <header>
+    <h1>每日新闻日报</h1>
+    <p class="sub">AI · 国际 · 电力能源 · A股 · 其他领域</p>
+  </header>
+
+  <!-- 最新一期 -->
+  <section class="section">
+    <div class="latest-card">
+      <span class="badge">最新</span>
+      <h2>2026 年 7 月 14 日（周二）</h2>
+      <p class="desc">美伊冲突升级、全国用电负荷创新高、A股暴力反弹、世界AI大会即将召开</p>
+      <a class="report" href="daily-pages/2026-07-14.html">
+        <span>阅读完整日报 →</span>
+        <span>2026-07-14</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- 历史日报 -->
+  <section class="section">
+    <h2 class="section-title">历史日报</h2>
+    <ul class="history-list">
+      <li>
+        <a href="daily-pages/2026-07-14.html">
+          <span>2026 年 7 月 14 日 <span class="date-label">周二</span></span>
+          <span class="arrow">阅读 →</span>
+        </a>
+      </li>
+      <li>
+        <a href="daily-pages/2026-07-12.html">
+          <span>2026 年 7 月 12 日 <span class="date-label">周日（示例）</span></span>
+          <span class="arrow">阅读 →</span>
+        </a>
+      </li>
+    </ul>
+  </section>
+
+  <p class="footer-note">每日早上 7:30 更新 · 历史日报持续归档</p>
+</main>
+</body>
 </html>
