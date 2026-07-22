@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>日报 · 2026-07-21</title>
+  <style>
+    :root { --ink:#182230; --muted:#64748b; --line:#e6eaf0; --paper:#fff; --bg:#f5f7fb; --accent:#2563eb; --dark:#0f172a; }
+    * { box-sizing:border-box; } body { margin:0; color:var(--ink); background:var(--bg); font:15px/1.72 system-ui,-apple-system,"Microsoft YaHei",sans-serif; }
+    .hero { color:white; background:radial-gradient(circle at 88% 15%,#325db5,transparent 34%),linear-gradient(120deg,#111827,#172554); padding:54px 24px 42px; }
+    .wrap { max-width:1040px; margin:auto; } .eyebrow { margin:0 0 8px; color:#b8ccff; font-size:13px; letter-spacing:.08em; }
+    h1 { margin:0; font-size:clamp(30px,5vw,48px); letter-spacing:-.035em; } .subtitle { margin:12px 0 0; color:#dbeafe; }
+    .meta { display:flex; gap:12px; flex-wrap:wrap; margin-top:21px; color:#dbeafe; font-size:13px; } .meta span { padding:4px 10px; border:1px solid #4b66a6; border-radius:999px; }
+    nav { position:sticky; top:0; z-index:2; background:rgba(255,255,255,.94); backdrop-filter:blur(10px); border-bottom:1px solid var(--line); } nav .wrap { display:flex; gap:18px; overflow:auto; } nav a { padding:13px 0; white-space:nowrap; color:var(--muted); text-decoration:none; font-size:14px; } nav a:hover { color:var(--accent); }
+    main { padding:28px 24px 56px; }.grid { display:grid; grid-template-columns:1.35fr .65fr; gap:22px; }.panel,.section { background:var(--paper); border:1px solid var(--line); border-radius:16px; box-shadow:0 8px 26px rgba(15,23,42,.035); }.panel { padding:21px; }.section { margin-top:20px; overflow:hidden; }.section-title { margin:0; padding:18px 22px; border-bottom:1px solid var(--line); font-size:20px; }.section-title small { margin-left:8px; color:var(--muted); font-size:12px; font-weight:400; }
+    .highlights { margin:0; padding-left:20px; }.highlights li { padding:6px 0; }.note { color:var(--muted); font-size:13px; }.article { padding:20px 22px; border-bottom:1px solid var(--line); }.article:last-child { border:0; }.tag { display:inline-block; margin-bottom:6px; padding:2px 8px; border-radius:99px; background:#eff6ff; color:#1d4ed8; font-size:12px; font-weight:600; }.article h3 { margin:0; font-size:17px; line-height:1.45; }.article p { margin:8px 0 0; color:#465568; }.source { display:inline-block; margin-top:8px; color:var(--accent); text-decoration:none; font-size:13px; }.source:hover { text-decoration:underline; }.risk { margin-top:20px; padding:17px 19px; border-left:4px solid #f59e0b; background:#fffbeb; border-radius:0 12px 12px 0; color:#72510c; }.sidebar h2 { margin:0 0 10px; font-size:16px; }.sidebar p { margin:0; }.footer { margin-top:20px; text-align:center; color:var(--muted); font-size:12px; }
+    @media(max-width:760px){ .hero{padding-top:38px}.grid{grid-template-columns:1fr}.sidebar{order:-1} main{padding:20px 14px 42px}.section-title,.article{padding-left:17px;padding-right:17px} }
+  </style>
+</head>
+<body>
+  <header class="hero"><div class="wrap"><p class="eyebrow">MORNING BRIEF / DAILY NEWS</p><h1>前一日新闻日报</h1><p class="subtitle">AI · 国际 · 电力能源 · 算电协同 · A股 · 其他领域</p><div class="meta"><span>覆盖：2026年7月21日（周二）</span><span>生成：2026年7月22日 07:30</span><span>简体中文</span></div></div></header>
+  <nav><div class="wrap"><a href="#ai">AI</a><a href="#world">国际</a><a href="#energy">电力能源</a><a href="#compute">算电协同</a><a href="#ashare">A股</a><a href="#other">其他领域</a></div></nav>
+  <main class="wrap"><div class="grid"><div>
+    <section class="panel"><h2 style="margin-top:0">今日要点</h2><ol class="highlights"><li>A股深"V"绝地反击：科创50暴涨10.73%创年内最大单日涨幅，半导体超80股涨停，科技赛道全面反攻。</li><li>美伊冲突第十天持续升级：胡塞武装宣布海上封锁沙特，停火斡旋加速，布伦特原油高位震荡。</li><li>WSJ称中国AI打破美国"牢不可破"优势：AMD发布Helios正面挑战英伟达，微软获为首个核心客户。</li><li>中信证券："算电协同"十五五总投资约2万亿、CAGR约42%，"国家队"系统性入场布局。</li><li>上市电企半年报"水火"分化：水电净利最高暴涨7673%，火电承压，华银电力3连板。</li><li>中央气象台三预警齐发：5省区大暴雨（100-200毫米），重庆连续17天高温或破7月历史纪录。</li></ol></section>
+
+  <section id="ai" class="section"><h2 class="section-title">01 · AI <small>WSJ称中国打破美国AI优势，AMD发布Helios挑战英伟达</small></h2>
+    <article class="article"><span class="tag">产业格局</span><h3>WSJ：中国AI打破美国"牢不可破"优势，开源低成本路径引发关注</h3><p>《华尔街日报》刊发长文分析WAIC 2026释放的强烈信号：月之暗面Kimi K3在多项基准超越Anthropic Claude Opus 4.8，阿里巴巴随即宣布新模型又超越Kimi K3。文章指出中国AI开源、低成本的发展模式正在复制智能手机、电动车和电池产业的路径，"美国AI牢不可破的假设已被打破"。联合国秘书长古特雷斯在WAIC论坛呼吁所有国家参与AI治理，欢迎WAICO成立。</p><a class="source" target="_blank" rel="noopener" href="https://www.sohu.com/a/1052738763_122135404">来源：WSJ/搜狐转载 ↗</a><a class="source" target="_blank" rel="noopener" href="https://www.trend.az/world/4208733.html" style="margin-left:8px;">来源：Trend News (UN) ↗</a></article>
+    <article class="article"><span class="tag">芯片</span><h3>AMD发布首款机架级AI系统Helios，微软成为首个核心客户</h3><p>AMD正式发布首款全栈机架级AI系统Helios，直接对标英伟达Grace Blackwell和Vera Rubin平台。微软确认成为首个核心客户，将在Azure数据中心部署Helios以多元化AI基础设施。AMD披露全球前十大AI公司中8家已在其Instinct GPU上运行工作负载，Q1数据中心营收同比飙升57%。Helios将于2026年下半年批量交付。</p><a class="source" target="_blank" rel="noopener" href="https://www.163.com/dy/article/L2C9A5I40514R9OJ.html">来源：网易科技 ↗</a></article>
+    <article class="article"><span class="tag">投资</span><h3>微软数十亿美元投资Mistral欧洲扩张，Alphabet Gemini延期引担忧</h3><p>微软与法国AI初创Mistral达成数十亿美元投资协议，支持其在欧洲建设计算基础设施（目标2030年1吉瓦算力），Mistral Medium 3.5和OCR 4模型同时加入微软Foundry。Alphabet则因Gemini 3.5 Pro发布延期（原定6月）、资本开支飙升至1800—1900亿美元（年度同比+80%）、多名核心高管流失等问题面临Q2财报季压力，营收预期约1169亿美元。</p><a class="source" target="_blank" rel="noopener" href="https://live.euronext.com/en/financial-news/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal">来源：Euronext ↗</a></article>
+  </section>
+
+  <section id="world" class="section"><h2 class="section-title">02 · 国际 <small>美伊冲突第十天，胡塞武装封锁沙特红海</small></h2>
+    <article class="article"><span class="tag">地缘政治</span><h3>美伊冲突第十天：美军第十轮空袭，伊朗打击科威特巴林美军设施</h3><p>美伊冲突进入第十天，美军发动第十轮连续空袭。伊朗革命卫队扩大打击至科威特和巴林境内美军爱国者防空系统、雷达和通讯设施，自7月7日以来近100名美军受伤。伊朗总统佩泽什基安称冲突已成"全面战争"，特朗普誓言让伊朗"付出多倍代价"。联合国警告双方已造成平民和关键基础设施（含海水淡化厂、儿童癌症医院紧急疏散）严重损害。</p><a class="source" target="_blank" rel="noopener" href="https://www.bssnews.net/international/407532">来源：BSS News ↗</a><a class="source" target="_blank" rel="noopener" href="https://www.app.com.pk/global/critical-infrastructure-and-civilians-caught-in-u-s-iran-crossfire-un/" style="margin-left:8px;">来源：APP/UN ↗</a></article>
+    <article class="article"><span class="tag">停火斡旋</span><h3>伊朗收到10天停火方案，巴基斯坦卡塔尔联合推动降温</h3><p>伊朗确认收到调解方提出的10天停火方案，旨在重启6月《伊斯兰堡备忘录》。伊朗内政部长莫梅尼赴伊斯兰堡会晤巴方领导人，俄罗斯与巴林外交官联合呼吁立即停火。但也门胡塞武装宣布对沙特实施海上封锁、威胁掐断红海航线（沙特此前通过红海延布港绕开霍尔木兹海峡），令局势进一步复杂化。布伦特原油高位震荡于91美元/桶上方。</p><a class="source" target="_blank" rel="noopener" href="https://tass.com/pressreview/2162829">来源：TASS ↗</a></article>
+    <article class="article"><span class="tag">全球</span><h3>英国工党领袖伯纳姆就任首相，特朗普对加拿大加征50%关税</h3><p>英国工党领袖安迪·伯纳姆正式觐见查理三世国王后接替斯塔默出任首相，任命希利为财相、米利班德为外相。英镑承压，市场观望新政府财政政策。特朗普对约200亿美元加拿大商品加征50%关税（涵盖葡萄酒、汽车、乳制品等）。阿富汗努里斯坦省山洪致20死逾百人失踪；斯里兰卡暴发十年来最严重登革热疫情。</p><a class="source" target="_blank" rel="noopener" href="https://xn--anadoluajans-d5b.com.tr/en/world/morning-briefing-july-21-2026/4004218">来源：Anadolu Agency ↗</a></article>
+  </section>
+
+  <section id="energy" class="section"><h2 class="section-title">03 · 电力能源 <small>上市电企半年报"水火"分化，用电增速超GDP</small></h2>
+    <article class="article"><span class="tag">用电数据</span><h3>上半年用电增速5.3%超GDP，充换电与数据中心成增长双引擎</h3><p>国家能源局披露，1—6月全社会用电量50999亿千瓦时，同比增长5.3%，超过同期GDP增速。第三产业用电增8.0%，其中充换电服务业飙升56.9%、互联网数据服务增长41.4%，两者合计贡献第三产业新增用电的61%。入夏以来全国及多个省级电网负荷累计20余次创新高，今夏峰值预计在15.75亿—16亿千瓦区间。</p><a class="source" target="_blank" rel="noopener" href="https://www.163.com/dy/article/L2BSHQGS05568W0A.html">来源：网易财经（综合机构报告）↗</a></article>
+    <article class="article"><span class="tag">业绩分化</span><h3>上市电企半年报"水火"分化：水电净利最高增7673%，火电承压</h3><p>电企半年报呈现极端分化：水电企业业绩暴增——电投水电净利11.9亿元（同比+7673%，完成重大资产重组），湖南发展净利增318%—391%（来水同比+48%），黔源电力增73%—100%（来水+67%）。火电企业大幅承压——浙能电力净利降54%—62%（电价降+煤价涨），华银电力降73%—78%（受湖南丰水期水电挤压）。国投电力与宁德时代合资开发牙根二级水电站（240万千瓦，总投资334亿元）。</p><a class="source" target="_blank" rel="noopener" href="https://www.cnstock.com/commonDetail/748323">来源：上海证券报 ↗</a></article>
+    <article class="article"><span class="tag">行情</span><h3>华银电力3连板，电力板块筑底反弹；中国能源体系展现韧性</h3><p>7月21日午后电力板块震荡回升，华银电力3连板，立新能源此前4连板，金开新能、京能电力等跟涨。截至5月底全国发电装机容量达40.1亿千瓦（超美欧印日俄总和），非化石能源装机占比62%，新能源汽车保有量达4897万辆。中东局势下中国能源体系凭借煤电"压舱石"与绿色转型双轮驱动展现韧性。甲骨文大型AI数据中心"Project Jupiter"因新墨西哥州否决天然气管线面临供电延宕。</p><a class="source" target="_blank" rel="noopener" href="https://www.cls.cn/detail/2432339">来源：财联社 ↗</a></article>
+  </section>
+
+  <section id="compute" class="section"><h2 class="section-title">04 · 算电协同 <small>中信证券：十五五总投资约2万亿元，"国家队"入场布局</small></h2>
+    <article class="article"><span class="tag">投资预测</span><h3>中信证券：算电协同十五五总投资约2万亿，CAGR约42%</h3><p>中信证券7月21日发布重磅研报指出，国家能源局指引2030年数据中心耗电量将达8000亿度（占全社会用电约6%），"十五五"期间数据中心增量规模78.5GW、对应资本开支10.7万亿元。算电协同作为耦合电力与算力的主要手段，对应总投资约2万亿元、CAGR约42%，将迎加速成长期。核心路径包括"算随电动""电随算调"以及AI反向赋能能源系统。</p><a class="source" target="_blank" rel="noopener" href="https://finance.sina.com.cn/roll/2026-07-21/doc-iniiphzq8174338.shtml">来源：中信证券/新浪财经 ↗</a></article>
+    <article class="article"><span class="tag">国家队</span><h3>"国家队"系统性入场：南方电网发布"大瓦特·云睿"入选WAIC镇馆之宝</h3><p>南方电网发布"大瓦特·云睿"配电网规划智能体，入选WAIC十大"镇馆之宝"，落地国内首个行业级电碳算一体化协同运营系统（覆盖粤桂滇黔琼五省区），将碳排放测算精度从月度级压缩至分钟级。南方电网还联合300家单位成立电力行业人工智能联盟。商汤联合三峡集团等发起"算电协同生态联合体"，构建"源—网—荷—储—算"一体化生态。</p><a class="source" target="_blank" rel="noopener" href="https://www.cnstock.com/commonDetail/748630">来源：中国证券报 ↗</a></article>
+    <article class="article"><span class="tag">技术落地</span><h3>商汤提出TPW新标尺，广东算力半年用电猛增21%</h3><p>商汤大装置率先提出TPW（Token per Watt）评估体系并发布算电协同Agent，落地后单位电力Token产出提升80%、负荷预测准确率96%。达卯科技2.0平台可降低度电成本10%—20%；中科类脑算电一体化平台综合电力成本降约20%。广东上半年309家数据中心用电59.74亿千瓦时（同比+21.15%），韶关增幅高达409%。国家能源局提出算电协同从"空间协同"转向"多维协同"。</p><a class="source" target="_blank" rel="noopener" href="http://sh.news.cn/20260721/f389309226cc4cb2b3769dfd6502212d/c.html">来源：新华网上海 ↗</a></article>
+  </section>
+
+  <section id="ashare" class="section"><h2 class="section-title">05 · A股 <small>深"V"绝地反击，科创50暴涨10.73%，半导体超80股涨停</small></h2>
+    <article class="article"><span class="tag">行情</span><h3>科创50暴涨10.73%创年内最大涨幅，三大指数全线大涨</h3><p>7月21日（周二）A股上演深"V"绝地反击：早盘一度下探（沪指跌超1%、科创综指跌超3%），午后涨幅持续扩大。截至收盘，上证综指涨1.79%报3864.37点，深证成指涨4.81%报14264.29点，创业板指涨7.05%报3685.97点，科创50暴涨10.73%（创年内最大单日涨幅），科创综指涨8.75%。两市成交约2.96万亿元，较前一交易日放量约2500亿元。全市场约3100只个股上涨、2300余只下跌，121股涨停。</p><a class="source" target="_blank" rel="noopener" href="https://www.bbtnews.com.cn/2026/0721/599989.shtml">来源：北京商报 ↗</a></article>
+    <article class="article"><span class="tag">热点</span><h3>半导体超80股涨停全面反攻，石油煤炭银行逆势回调</h3><p>半导体/芯片产业链全面爆发：格科微、华虹宏力、拓荆科技等超80股涨停，电子元器件板块超150股涨停。CPO、存储芯片、先进封装、机器人、AI应用等全线活跃。前期强势的红利资产逆势下跌：中证红利指数跌1.09%，石油石化（通源石油跌超8%）、煤炭、电力、银行、白酒、保险等板块弱势回调。46只个股换手率超20%。机构普遍认为回调已基本结束，有望开启新一轮行情。</p><a class="source" target="_blank" rel="noopener" href="https://www.sohu.com/a/1052921483_115433">来源：搜狐财经/证券时报 ↗</a></article>
+  </section>
+
+  <section id="other" class="section"><h2 class="section-title">06 · 其他领域</h2>
+    <article class="article"><span class="tag">天气</span><h3>三预警齐发：5省区大暴雨（100—200毫米），多地伴11级雷暴大风</h3><p>7月21日，中央气象台同时发布暴雨黄色、强对流黄色、地质灾害黄色三项预警。江苏西部、安徽中部、湖北东部、湖南南部、广东北部和西南部、广西西部和东南部等地局地大暴雨（100—200毫米）。陕西中东部、山西中南部、河北南部、山东北部出现10—11级雷暴大风，局地不排除龙卷可能。安徽中南部、江苏中南部、湖北东部、江西北部小时雨量超80毫米。</p><a class="source" target="_blank" rel="noopener" href="https://www.news.cn/local/20260721/d9166055e7f5480fb4dc66584a840745/c.html">来源：新华网/中央气象台 ↗</a></article>
+    <article class="article"><span class="tag">高温</span><h3>重庆连续17天高温或破7月纪录，江南23日后高温重返</h3><p>重庆自7月5日起连续高温，截至20日已16天，未来5天仍将持续，将打破当地7月最长连续高温日数纪录。新疆南部、甘肃、内蒙古西部、宁夏、陕西等地高温持续，西安预计连续7天高温。成都未来三天最高38—39℃（24日降至32℃）。江南（杭州、上海、长沙、南昌）23日后高温重返，开启"桑拿天"模式。安徽、江西、湖北、湖南、广东、广西等地地质灾害风险较高。</p><a class="source" target="_blank" rel="noopener" href="https://m.gmw.cn/2026-07/21/content_1304535824.htm">来源：光明网/中国天气网 ↗</a></article>
+    <article class="article"><span class="tag">国际</span><h3>东盟外长就美伊冲突发布紧急联合声明；F1比利时站安东内利夺冠</h3><p>东盟十国外长在会见美国国务卿鲁比奥前夕发布紧急联合声明，对美伊冲突表达"严重关切"。德国、葡萄牙、奥地利、法国、意大利联合反对欧盟第21轮对俄制裁中的LNG限制条款，希腊因对本国航运业损害明确提出搁置动议。F1比利时大奖赛，梅赛德斯车手安东内利夺冠。</p><a class="source" target="_blank" rel="noopener" href="https://bernama.com/misc/rss/news.php/news.php?id=2583781">来源：Bernama (ASEAN) ↗</a></article>
+  </section>
+  </div>
+  <aside class="sidebar"><section class="panel"><h2>阅读说明</h2><p class="note">本日报按"前一自然日"口径制作，覆盖2026年7月21日（周二）全天重大新闻。当日为工作日，A股正常交易。美伊冲突仍在快速演变中，本日报截稿时停火斡旋仍在进行。所有内容均来源于可公开检索的权威媒体报道链接，标注来源以供核验。</p></section><div class="risk"><strong>风险提示</strong><br>地缘政治事件（美伊冲突、胡塞武装封锁）处于快速演变中，本文仅作新闻摘要。市场相关内容不构成投资建议。天气预警信息请以中央气象台最新预报为准。</div></aside></div><p class="footer">日报 · 内容以链接所示原始报道为准 · AI生成仅供参考</p></main>
+</body>
+</html>
