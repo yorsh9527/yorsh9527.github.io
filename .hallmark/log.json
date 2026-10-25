@@ -1,0 +1,29 @@
+[
+ {
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "site",
+  "shape": "Index-First",
+  "theme": "editorial",
+  "axes": "light/Chinese-serif/chromatic-green",
+  "hero": "Poster",
+  "nav": "masthead",
+  "footer": "index columns",
+  "imagery": "none, real text and records",
+  "photos": [],
+  "entry": "reading index",
+  "fingerprint": "typographic/ruled-index/masthead/quiet-footer",
+  "sections": [
+   "hero index",
+   "learning path",
+   "work essays",
+   "notes",
+   "statement",
+   "colophon"
+  ],
+  "signature": "real reading index beside personal statement",
+  "waived": [],
+  "prompt": "Personal learning archive with Chinese serif headings, warm paper and restrained colors",
+  "date": "2026-10-25"
+ }
+]

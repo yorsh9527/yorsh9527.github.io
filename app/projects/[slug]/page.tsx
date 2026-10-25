@@ -1,31 +1,36 @@
 import { works } from '@/data/personal'
 import { notFound } from 'next/navigation'
 import Link from '@/components/Link'
+
 export function generateStaticParams() {
-  return works.map((w) => ({ slug: w.slug }))
+  return works.map((work) => ({ slug: work.slug }))
 }
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  return { title: works.find((w) => w.slug === slug)?.title || '作品' }
+  return { title: works.find((work) => work.slug === slug)?.title || '作品' }
 }
+
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const work = works.find((w) => w.slug === slug)
+  const work = works.find((entry) => entry.slug === slug)
   if (!work) notFound()
   const personal = slug === 'personal-space'
+
   return (
     <div className="field-home field-page">
-      <Link href="/projects" className="text-link">
-        ← 全部作品
+      <Link href="/projects" className="text-link route-back">
+        全部作品
       </Link>
-      <div className="eyebrow mt-10">
-        {work.category} · {work.status}
-      </div>
       <h1>{work.title}</h1>
       <p className="page-intro">{work.description}</p>
-      <div className="stack-tags mb-10">
-        {work.stack.map((t) => (
-          <span key={t}>{t}</span>
+      <div className="entry-meta">
+        <span>{work.category.toLowerCase()}</span>
+        <span>{work.status}</span>
+      </div>
+      <div className="stack-tags" aria-label="项目技术栈">
+        {work.stack.map((technology) => (
+          <span key={technology}>{technology}</span>
         ))}
       </div>
       <section className="detail-panel">
@@ -55,7 +60,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
       <section className="detail-panel">
         <h2>实践记录</h2>
         <Link href="/blog/starting-with-agents" className="text-link">
-          从工具选择到第一次本地运行 →
+          从工具选择到第一次本地运行
         </Link>
       </section>
     </div>

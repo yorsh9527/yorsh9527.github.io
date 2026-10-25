@@ -1,12 +1,16 @@
 import Link from '@/components/Link'
 import { genPageMetadata } from 'app/seo'
+
 export const metadata = genPageMetadata({ title: '关于这个空间' })
+
 export default function Page() {
   return (
     <div className="field-home field-page">
-      <div className="eyebrow">ABOUT THIS SPACE</div>
       <h1>你好，这是我的探索手记。</h1>
       <p className="page-intro">一个关于持续学习、动手实践和作品积累的个人空间。</p>
+      <Link href="/journey" className="field-button">
+        看看我的学习路线
+      </Link>
       <section className="detail-panel">
         <h2>从好奇出发</h2>
         <p>
@@ -26,9 +30,6 @@ export default function Page() {
           这里只展示实际发生的进展，并明确区分完成、进行中和计划中的内容。姓名、头像、联系方式和过往经历尚待补充，暂以「探索手记」作为站点名称。
         </p>
       </section>
-      <Link href="/journey" className="field-button mt-5 inline-block">
-        看看我的学习路线 ↗
-      </Link>
     </div>
   )
 }
