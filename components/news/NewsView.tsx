@@ -97,7 +97,7 @@ export default function NewsView({
                       {i.changePercent.toFixed(2)}%
                     </span>
                     <small>
-                      {i.tradeDate} 收盘 · {report.market.provider}
+                      {i.tradeDate} 收盘 · {i.provider || report.market.provider}
                     </small>
                   </article>
                 ))}

@@ -48,3 +48,6 @@ yarn-error.log*
 
 *.tsbuildinfo
 
+
+__pycache__/
+

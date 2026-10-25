@@ -1,3 +1,5 @@
+import { execFile } from 'node:child_process'
+import { promisify } from 'node:util'
 import { readFile, writeFile, mkdir, readdir } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
@@ -170,6 +172,49 @@ if (marketKey) {
     warnings.push('行情获取失败')
   }
 }
+if (market.status !== 'ok') {
+  try {
+    const { stdout, stderr } = await promisify(execFile)(
+      process.env.PYTHON || 'python',
+      [path.join(root, 'scripts/news/market.py'), '--date', date],
+      {
+        timeout: 300000,
+        maxBuffer: 2 * 1024 * 1024,
+        encoding: 'utf8',
+        env: { ...process.env, PYTHONIOENCODING: 'utf-8' },
+      }
+    )
+    if (stderr) console.log(stderr.trim())
+    const result = JSON.parse(stdout.trim())
+    if (!Array.isArray(result.indices)) throw new Error('Invalid market result')
+    for (const item of result.indices) {
+      if (
+        !Number.isFinite(item.close) ||
+        item.close <= 0 ||
+        !Number.isFinite(item.changePercent) ||
+        !/^\d{4}-\d{2}-\d{2}$/.test(item.tradeDate) ||
+        Date.parse(item.tradeDate + 'T00:00:00+08:00') >= end
+      )
+        throw new Error('Invalid market snapshot')
+    }
+    market = result
+    if (result.status === 'ok') {
+      const failedWarning = warnings.indexOf('行情获取失败')
+      if (failedWarning >= 0) warnings.splice(failedWarning, 1)
+    }
+    warnings.push(...(result.warnings || []))
+    if (result.status === 'failed') warnings.push('免费行情来源本次不可用')
+  } catch {
+    market = {
+      status: 'failed',
+      provider: 'AKShare',
+      indices: [],
+      tradeDate: null,
+      message: '免费行情采集暂不可用，将在下次任务重试。',
+    }
+    warnings.push('免费行情采集失败')
+  }
+}
 const report = validateReport({
   date,
   generatedAt: new Date().toISOString(),
@@ -188,6 +233,14 @@ const filename = path.join(dir, `${date}.json`)
 // Preserve a richer same-day result on degraded retries.
 try {
   const existing = JSON.parse(await readFile(filename, 'utf8'))
+  if (market.indices.length === 0 && existing.market?.indices?.length) {
+    report.market = {
+      ...existing.market,
+      status: 'stale',
+      message: '本次采集失败，保留上一次验证的收盘快照，请留意各指数交易日期。',
+    }
+    report.status = 'partial'
+  }
   if (existing.news.length > 0 && news.length === 0) throw new Error('Refusing empty replacement')
   if (existing.news.some((n) => n.summaryType === 'ai') && summaryStatus === 'failed')
     throw new Error('Refusing degraded summary replacement')

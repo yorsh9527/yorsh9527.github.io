@@ -27,6 +27,7 @@ export interface NewsReport {
     provider: string
     tradeDate: string | null
     indices: {
+      provider?: string
       code: string
       name: string
       close: number
