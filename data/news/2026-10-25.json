@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T15:38:43.171Z",
+  "generatedAt": "2026-10-25T15:55:31.964Z",
   "coverageStart": "2026-10-23T16:00:00.000Z",
   "coverageEnd": "2026-10-24T16:00:00.000Z",
   "status": "ok",
@@ -8,78 +8,78 @@
   "news": [
     {
       "id": "e7a80d87e8606cee",
-      "title": "被迫选择时，Grok的AI模型选共和党，OpenAI的选民主党",
+      "title": "被迫二选一：Grok的AI模型倾向共和党，OpenAI倾向民主党",
       "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-24T15:00:00.000Z",
-      "summary": "一项新研究发现，Grok的AI压倒性地推荐共和党候选人，而OpenAI的GPT偏向民主党；两个模型在近500场选举中超过90%意见不一致。",
+      "summary": "一项研究发现，Grok的AI模型在选举推荐中明显偏向共和党候选人，而OpenAI的GPT偏向民主党，两者在多数选举中意见不一致。",
       "category": "模型与研究",
       "summaryType": "ai"
     },
     {
       "id": "ba1e969f5ed16b52",
-      "title": "能住进你短信里的热门AI代理",
+      "title": "可常驻短信中的热门AI代理盘点",
       "originalTitle": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-24T14:00:00.000Z",
-      "summary": "我们整理了可存在于短信中的知名AI代理，涵盖通用助手，以及面向家庭、旅行和工作场景的代理。",
+      "summary": "文章盘点了可常驻短信中的知名AI代理，覆盖通用助手以及面向家庭、旅行和工作场景的代理。",
       "category": "产品与工具",
       "summaryType": "ai"
     },
     {
       "id": "dfe5fb536ca517ba",
-      "title": "OpenAI称将不再用实时互联网训练AI模型，理由是存在“重大风险”",
+      "title": "OpenAI称将不再用实时互联网训练AI模型，理由是有“重大风险”",
       "originalTitle": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23T23:05:49.000Z",
-      "summary": "OpenAI将让前沿模型与互联网断开；数周前其一名工程师曾表示该方案行不通。",
+      "summary": "OpenAI表示将以“重大风险”为由，不再让前沿模型接入互联网进行训练；此前有工程师称该方案行不通。",
       "category": "模型与研究",
       "summaryType": "ai"
     },
     {
       "id": "739797ca19c060e4",
-      "title": "圣诞最热玩具？英伟达CEO把玩可爱Microduck机器人，售出2万台",
+      "title": "圣诞热门玩具？英伟达CEO把玩Microduck机器人",
       "originalTitle": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
       "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23T21:59:19.000Z",
-      "summary": "这些机器人会跺脚、发出微小的R2-D2声响，能按语音指令坐下、装死“午睡”和翻跟头。",
+      "summary": "报道称Microduck机器人会跺脚、发出细小R2-D2式声音，并按语音指令坐下、装死“午睡”和翻跟头；英伟达CEO也把玩该产品。",
       "category": "产品与工具",
       "summaryType": "ai"
     },
     {
       "id": "303db39c14fcfc30",
-      "title": "在MIT，Martha Minow谈利用并克服AI以维系民主",
+      "title": "MIT讲座：Martha Minow谈借助并克服AI以维系民主",
       "originalTitle": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
       "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
       "source": "MIT AI",
       "publishedAt": "2026-10-23T21:00:00.000Z",
-      "summary": "在Compton讲座中，这位知名法学者警告可能出现“启蒙的丧失”，并提出创新满足公民与文化需求的方式。",
+      "summary": "在Compton讲座中，法学家Martha Minow警告可能出现“启蒙的丧失”，并提出创新如何满足公民与文化需求的思路。",
       "category": "行业动态",
       "summaryType": "ai"
     },
     {
       "id": "6b7380afc5963ae9",
-      "title": "在MIT重申人类理解的价值",
+      "title": "MIT强调人类理解的价值",
       "originalTitle": "Reinforcing the value of human understanding at MIT",
       "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
       "source": "MIT AI",
       "publishedAt": "2026-10-23T19:35:00.000Z",
-      "summary": "在人文、艺术与社会科学学院75周年研讨会上，校长Sally Kornbluth表示MIT比以往更需要你们的独特见解与指导。",
+      "summary": "在MIT人文、艺术与社会科学学院75周年研讨会上，校长Sally Kornbluth表示，MIT比以往任何时候都更需要该领域的洞见与指引。",
       "category": "行业动态",
       "summaryType": "ai"
     },
     {
       "id": "6f6451b374ed58f7",
-      "title": "从Toast到Bessemer：创始人在TechCrunch Founder Summit 2026将听到谁分享",
+      "title": "从Toast到Bessemer：TechCrunch创始人峰会2026的演讲嘉宾",
       "originalTitle": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23T19:06:23.000Z",
-      "summary": "TechCrunch与Fidelity Private Shares合作举办的全天活动，超越融资与AI，探讨寻找客户、组建团队、打磨路演、培养创始人领导力及在传统创业中心内外扩张公司。",
+      "summary": "TechCrunch与Fidelity Private Shares合作的整天活动，除融资和AI外，将讨论获客、组建团队、打磨路演、创始人领导力及在传统创业中心内外扩张公司。",
       "category": "行业动态",
       "summaryType": "ai"
     },
@@ -90,28 +90,57 @@
       "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
       "source": "Google Research",
       "publishedAt": "2026-10-23T18:51:33.000Z",
-      "summary": "仅提供标题，信息不足，无法生成更具体摘要。",
+      "summary": "来源摘要仅写“生成式AI”，信息不足，无法进一步说明基础模型用于结核病筛查的具体内容。",
       "category": "模型与研究",
       "summaryType": "ai"
     },
     {
       "id": "5d794c3788a3a4be",
-      "title": "LitPivot：在文献图景中通过动态情境化发展研究想法",
+      "title": "LitPivot：通过文献景观中的动态情境化发展研究想法",
       "originalTitle": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "url": "https://huggingface.co/blog/allenai/litpivot",
       "source": "Hugging Face",
       "publishedAt": "2026-10-23T16:15:50.000Z",
-      "summary": "仅提供标题，信息不足，无法生成更具体摘要。",
-      "category": "模型与研究",
+      "summary": "来源未提供摘要，信息不足；仅从标题可知其与在文献环境中动态情境化以发展研究想法有关。",
+      "category": "产品与工具",
       "summaryType": "ai"
     }
   ],
   "market": {
-    "status": "unconfigured",
-    "provider": "Tushare",
-    "indices": [],
-    "tradeDate": null,
-    "message": "行情数据暂未配置，待接入后展示最近交易日收盘信息。"
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3690.48,
+        "changePercent": 0.8871,
+        "tradeDate": "2026-10-23",
+        "previousTradeDate": "2026-10-22",
+        "provider": "腾讯财经 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 11673.83,
+        "changePercent": 2.7868,
+        "tradeDate": "2026-10-23",
+        "previousTradeDate": "2026-10-22",
+        "provider": "腾讯财经 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2684.1,
+        "changePercent": 4.16,
+        "tradeDate": "2026-10-23",
+        "previousTradeDate": "2026-10-22",
+        "provider": "腾讯财经 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-10-23",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
   },
   "sources": [
     {
