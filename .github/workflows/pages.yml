@@ -2,23 +2,59 @@ name: Deploy personal website
 on:
   push:
     branches: [master]
+    paths-ignore:
+      - 'data/news/**'
+  schedule:
+    - cron: '37 23 * * *'
   workflow_dispatch:
+    inputs:
+      date:
+        description: '晨报日期 YYYY-MM-DD（北京时间）；留空为今天，覆盖前一天新闻'
+        required: false
+        type: string
 permissions:
   contents: read
   pages: write
   id-token: write
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
       - uses: actions/configure-pages@v5
+      - name: Test news pipeline
+        run: node --test scripts/news/core.test.mjs
+      - name: Collect daily news
+        if: github.event_name != 'push'
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY || secrets.DEEPSEEK }}
+          MARKET_API_TOKEN: ${{ secrets.MARKET_API_TOKEN }}
+          NEWS_DATE: ${{ inputs.date }}
+        run: |
+          if [ -n "$NEWS_DATE" ]; then
+            node scripts/news/collect.mjs --date="$NEWS_DATE"
+          else
+            node scripts/news/collect.mjs
+          fi
+      - name: Save daily archive
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news
+          if ! git diff --cached --quiet; then
+            git commit -m "Update daily observation [skip ci]"
+            git push origin HEAD:master
+          fi
       - name: Install locked dependencies
         run: node .yarn/releases/yarn-3.6.1.cjs install --immutable
       - name: Build static website
@@ -33,6 +69,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out
+          retention-days: 3
   deploy:
     needs: build
     runs-on: ubuntu-latest

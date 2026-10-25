@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T15:35:37.784Z",
+  "coverageStart": "2026-10-23T16:00:00.000Z",
+  "coverageEnd": "2026-10-24T16:00:00.000Z",
+  "status": "partial",
+  "summaryStatus": "source",
+  "news": [
+    {
+      "id": "e7a80d87e8606cee",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "category": "AI 动态",
+      "summaryType": "source"
+    },
+    {
+      "id": "ba1e969f5ed16b52",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "originalTitle": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "category": "AI 动态",
+      "summaryType": "source"
+    },
+    {
+      "id": "dfe5fb536ca517ba",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "originalTitle": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T23:05:49.000Z",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "category": "AI 动态",
+      "summaryType": "source"
+    },
+    {
+      "id": "739797ca19c060e4",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "originalTitle": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T21:59:19.000Z",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "category": "AI 动态",
+      "summaryType": "source"
+    },
+    {
+      "id": "303db39c14fcfc30",
+      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "originalTitle": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+      "source": "MIT AI",
+      "publishedAt": "2026-10-23T21:00:00.000Z",
+      "summary": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
+      "category": "AI 动态",
+      "summaryType": "source"
+    },
+    {
+      "id": "6b7380afc5963ae9",
+      "title": "Reinforcing the value of human understanding at MIT",
+      "originalTitle": "Reinforcing the value of human understanding at MIT",
+      "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+      "source": "MIT AI",
+      "publishedAt": "2026-10-23T19:35:00.000Z",
+      "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
+      "category": "AI 动态",
+      "summaryType": "source"
+    },
+    {
+      "id": "6f6451b374ed58f7",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "originalTitle": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T19:06:23.000Z",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+      "category": "AI 动态",
+      "summaryType": "source"
+    },
+    {
+      "id": "32ef7801f5802984",
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "originalTitle": "Bringing foundational models to the front lines of TB screening",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "source": "Google Research",
+      "publishedAt": "2026-10-23T18:51:33.000Z",
+      "summary": "Generative AI",
+      "category": "AI 动态",
+      "summaryType": "source"
+    },
+    {
+      "id": "5d794c3788a3a4be",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "originalTitle": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-23T16:15:50.000Z",
+      "summary": "",
+      "category": "AI 动态",
+      "summaryType": "source"
+    }
+  ],
+  "market": {
+    "status": "unconfigured",
+    "provider": "Tushare",
+    "indices": [],
+    "tradeDate": null,
+    "message": "行情数据暂未配置，待接入后展示最近交易日收盘信息。"
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": [
+    "未配置摘要服务，展示来源内容"
+  ]
+}

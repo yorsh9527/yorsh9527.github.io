@@ -745,3 +745,138 @@ header {
     transition: none;
   }
 }
+.news-toolbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  border-top: 1px solid #8883;
+  border-bottom: 1px solid #8883;
+  padding: 18px 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+.news-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 25px;
+  font-size: 11px;
+  color: var(--muted);
+  padding: 16px 0;
+  line-height: 1.8;
+}
+.news-notice {
+  border: 1px solid #caa98055;
+  background: #caa9800c;
+  border-radius: 6px;
+  padding: 15px 19px;
+  font-size: 12px;
+  line-height: 1.9;
+  color: var(--muted);
+}
+.news-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.news-card {
+  border: 1px solid #8883;
+  border-radius: 8px;
+  padding: 23px;
+  display: flex;
+  flex-direction: column;
+}
+.news-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  font-size: 10px;
+  color: var(--muted);
+}
+.news-card h3 {
+  font-size: 19px;
+  font-weight: 650;
+  line-height: 1.6;
+  margin: 16px 0 12px;
+}
+.news-card h3 a:hover {
+  color: var(--accent);
+}
+.news-card > p {
+  font-size: 13px;
+  line-height: 1.95;
+  color: var(--muted);
+}
+.news-card > .news-original {
+  font-size: 10px;
+  margin-bottom: 12px;
+  color: var(--muted);
+}
+.news-source {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  border-top: 1px solid #8882;
+  margin-top: auto;
+  padding-top: 18px;
+  font-size: 10px;
+  color: var(--muted);
+}
+.news-card > p:last-of-type {
+  margin-bottom: 22px;
+}
+.news-method {
+  font-size: 12px;
+  line-height: 2;
+  color: var(--muted);
+  margin-top: 12px;
+}
+.news-archive {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.market-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+.market-card {
+  padding: 22px;
+  border: 1px solid #8883;
+  border-radius: 7px;
+}
+.market-card h3 {
+  font-size: 14px;
+}
+.market-card strong {
+  display: block;
+  font-size: 30px;
+  margin: 12px 0;
+}
+.market-card small {
+  display: block;
+  color: var(--muted);
+  font-size: 10px;
+  margin-top: 15px;
+}
+.market-up {
+  color: #b64c3c;
+}
+.market-down {
+  color: #3b825f;
+}
+@media (max-width: 767px) {
+  .news-grid,
+  .market-grid {
+    grid-template-columns: 1fr;
+  }
+  .news-toolbar {
+    font-size: 14px;
+  }
+  .news-card {
+    padding: 19px;
+  }
+}
