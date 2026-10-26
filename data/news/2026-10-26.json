@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T01:39:32.679Z",
+  "coverageStart": "2026-10-24T16:00:00.000Z",
+  "coverageEnd": "2026-10-25T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "a18a7851efbde35c",
+      "title": "值得关注的AI可穿戴设备与智能硬件",
+      "originalTitle": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T14:10:00.000Z",
+      "summary": "汇总当前受关注的AI可穿戴设备与智能硬件，提及Muse Charm、Bee、Friend、Plaud等产品。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "43fa73ddaf377eb5",
+      "title": "AI项目“墓地”：未能成功的项目与初创公司清单",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "summary": "梳理已关停或未达预期的AI项目与初创公司，文中举例包括苹果多次延期的Siri AI，以及OpenAI“超级应用”发布。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "61ceba6cfe498159",
+      "title": "Block新语音模型听起来近乎真人",
+      "originalTitle": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "summary": "Block称该语音模型可在MacBook M4 Max上本地运行。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3690.48,
+        "changePercent": 0.8871,
+        "tradeDate": "2026-10-23",
+        "previousTradeDate": "2026-10-22",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 11673.83,
+        "changePercent": 2.7868,
+        "tradeDate": "2026-10-23",
+        "previousTradeDate": "2026-10-22",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2684.1,
+        "changePercent": 4.16,
+        "tradeDate": "2026-10-23",
+        "previousTradeDate": "2026-10-22",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-10-23",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
