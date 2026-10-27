@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T02:25:21.452Z",
+  "coverageStart": "2026-10-25T16:00:00.000Z",
+  "coverageEnd": "2026-10-26T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "b67fd02a214f91e2",
+      "title": "Anthropic正式提交IPO申请",
+      "originalTitle": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-26T14:35:22.000Z",
+      "summary": "Anthropic已正式提交IPO申请，披露营收快速增长、亏损扩大、企业采用广泛，以及旨在保留创始人控制权和AI安全使命的特殊治理结构。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "08ec5c76056e031d",
+      "title": "Grok发布AI生成《奥德赛》前七分钟",
+      "originalTitle": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "summary": "Grok发布其AI生成作品《奥德赛》的前七分钟片段；来源摘要称画面尚可，但若期待艺术性、灵感或人文关怀则会失望。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "9a814be9eb368823",
+      "title": "Apollo经济学家：AI对多数公司带来“零财务回报”",
+      "originalTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T16:57:32.000Z",
+      "summary": "Apollo经济学家表示，尽管AI投资巨大且备受炒作，但对科技行业以外的美国企业而言，该技术带来的财务回报为零。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3697.52,
+        "changePercent": 0.1908,
+        "tradeDate": "2026-10-26",
+        "previousTradeDate": "2026-10-23",
+        "provider": "腾讯财经 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 11534.38,
+        "changePercent": -1.1946,
+        "tradeDate": "2026-10-26",
+        "previousTradeDate": "2026-10-23",
+        "provider": "腾讯财经 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2638.23,
+        "changePercent": -1.709,
+        "tradeDate": "2026-10-26",
+        "previousTradeDate": "2026-10-23",
+        "provider": "腾讯财经 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-10-26",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
