@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T02:55:25.410Z",
+  "coverageStart": "2026-10-28T16:00:00.000Z",
+  "coverageEnd": "2026-10-29T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "bc01622ffa1cd4de",
+      "title": "Wabi：可构建迷你应用的AI代理在最新融资后估值达12.5亿美元",
+      "originalTitle": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T14:35:26.000Z",
+      "summary": "据摘要，Wabi自称“个人代理”，宣布以12.5亿美元估值融资5500万美元。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "e508e29ae812fe58",
+      "title": "Granite Switch 4.1.1：像更新软件一样更新模型",
+      "originalTitle": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-29T13:37:07.000Z",
+      "summary": "仅提供标题，信息不足，未说明模型更新机制或发布细节。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "3eb958348088c8d0",
+      "title": "Deepgram收购Pipecat开发商Daily，强化语音AI基础设施",
+      "originalTitle": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "summary": "据摘要，借助Pipecat，Deepgram可能更深入理解实时语音与视频基础设施。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "f303d11137ac0122",
+      "title": "亚马逊更新Alexa：帮助管理购物清单、订阅与配送说明",
+      "originalTitle": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "summary": "更新允许用户通过Alexa创建和登记清单、查看清单内容、添加或编辑条目，也可管理订阅。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "718617961cab3abc",
+      "title": "宣布Project ProtoStar：让公共资助科学数据为AI做好准备",
+      "originalTitle": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "summary": "仅提供标题，信息不足，未说明项目具体范围、参与方或实施方式。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "b6b30743068c2627",
+      "title": "欢迎Le Chonk：Mistral Large 4上线Hugging Face",
+      "originalTitle": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "summary": "仅提供标题，信息不足，未说明模型能力、许可或发布细节。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "6394645bd5105adc",
+      "title": "推出AnySpeechRecognizer与AnyDecisionModel：面向Apple平台的语音与决策开源模型",
+      "originalTitle": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "summary": "仅提供标题，信息不足，未说明模型规格、开源许可或性能。",
+      "category": "开源生态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "0c8f9ce2d60c8e0d",
+      "title": "微软首次披露Azure实际营收：332亿美元",
+      "originalTitle": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T21:58:32.000Z",
+      "summary": "摘要称微软首次披露Azure季度美元营收，可看出其与AWS的接近程度。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "e46d29680afeffb3",
+      "title": "Google将AI搜索广告扩展至全球，核心广告增长放缓",
+      "originalTitle": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T21:48:37.000Z",
+      "summary": "该消息随Alphabet第三季度财报发布，摘要称营收同比增长25%至1276亿美元。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "020314ea17c3bf3d",
+      "title": "微软从OpenAI相关安排中获得100亿美元营收",
+      "originalTitle": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T21:34:30.000Z",
+      "summary": "微软称截至9月30日季度从与OpenAI的商业安排中获得100亿美元收入，包括收入分成，凸显双方财务依赖。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "f32d7efe87a5d30e",
+      "title": "微软连续10个季度创营收纪录",
+      "originalTitle": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T21:25:30.000Z",
+      "summary": "微软公布季度营收923亿美元，同比增长19%，摘要称这是又一次季度营收纪录。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "3b6696291dbcf94f",
+      "title": "Anthropic推出工具，展示企业AI支出的使用效果",
+      "originalTitle": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T19:19:58.000Z",
+      "summary": "摘要称该前沿实验室在计划IPO前，让用户了解其模型上的资金花费情况。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3651.43,
+        "changePercent": -0.816,
+        "tradeDate": "2026-10-29",
+        "previousTradeDate": "2026-10-28",
+        "provider": "腾讯财经 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 11138.2,
+        "changePercent": -2.9197,
+        "tradeDate": "2026-10-29",
+        "previousTradeDate": "2026-10-28",
+        "provider": "腾讯财经 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2517.59,
+        "changePercent": -4.4471,
+        "tradeDate": "2026-10-29",
+        "previousTradeDate": "2026-10-28",
+        "provider": "腾讯财经 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-10-29",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
