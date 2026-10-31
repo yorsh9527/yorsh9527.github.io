@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T02:41:57.563Z",
+  "coverageStart": "2026-10-29T16:00:00.000Z",
+  "coverageEnd": "2026-10-30T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "e54e2cc79a7ae6cb",
+      "title": "TechCrunch创始人峰会：用Braindate跳过闲聊建立关键人脉",
+      "originalTitle": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T14:00:00.000Z",
+      "summary": "TechCrunch创始人峰会2026将于11月4日在波士顿举行，Braindate帮助参会者通过一对一或小组现场会面更轻松地建立联系；活动前注册可省最高100美元并获得第二张免费通行证。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "baf2e8680ec92ea7",
+      "title": "DoorDash称仅收到数百笔AI代理订单",
+      "originalTitle": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T13:54:25.000Z",
+      "summary": "DoorDash表示，其平台仅收到数百笔来自AI代理的订单，并称愿意与第三方代理开发商合作。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "6edb7f80f01baf9f",
+      "title": "TechCrunch创始人峰会2026进入5天倒计时",
+      "originalTitle": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T13:00:00.000Z",
+      "summary": "TechCrunch创始人峰会2026将在波士顿举行，距活动还有5天；现在注册可节省最高100美元，并获得第二张免费通行证。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "93ad0842fdd46a0d",
+      "title": "AI数据中心能否像汽车一样量产？初创公司Runware尝试验证",
+      "originalTitle": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T13:00:00.000Z",
+      "summary": "Runware正在建设工厂，计划通过装配线生产预制AI数据中心；真正的考验在于能否实现这种规模的交付。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "c4d34ddeaf925ee4",
+      "title": "不信神也能因宗教理由获准在工作中不用AI",
+      "originalTitle": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T01:20:48.000Z",
+      "summary": "肯塔基大学一名管理人员David Durman近日获得宗教豁免，可在工作场所不使用AI。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "772e2e8e8ca4a19f",
+      "title": "Jassy称AWS将成为万亿美元业务，但需先大举支出",
+      "originalTitle": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T23:42:22.000Z",
+      "summary": "亚马逊CEO Jassy表示，AWS有望成为万亿美元规模的业务，但公司需继续大举资本支出，以争夺AI云计算领先地位。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "4a81ec2699fd4844",
+      "title": "搜索流量枯竭，Reddit宣布转向登录体验",
+      "originalTitle": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T20:08:31.000Z",
+      "summary": "随着AI改变人们在线获取信息的方式，Reddit正重新思考其开放网络根基，转向登录体验以保护用户和业务。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "eb97518808c83f5e",
+      "title": "Rivian扩大与大众合资企业，纳入AI助手",
+      "originalTitle": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T20:05:47.000Z",
+      "summary": "Rivian将其与大众的合资业务扩展至AI助手领域，但未披露这项价值58亿美元的合资企业规模是否会扩大。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "c64d19fa0032f9ce",
+      "title": "OpenAI支持的Thrive Holdings以153亿美元收购ADT",
+      "originalTitle": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T19:56:19.000Z",
+      "summary": "OpenAI支持的Thrive Holdings宣布以153亿美元收购ADT，并计划将AI引入家庭安全业务。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "1584446fbcb19438",
+      "title": "Meta悄然推出AI时尚应用Style Sketch",
+      "originalTitle": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T19:14:36.000Z",
+      "summary": "该应用可连接Instagram，用已分享照片构建虚拟衣橱，也支持拍照、录短视频或从相册上传图片手动添加单品。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "20776e88d00f3502",
+      "title": "Granola新增听写功能，与Wispr展开竞争",
+      "originalTitle": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T17:54:38.000Z",
+      "summary": "在Wispr为听写应用加入会议笔记后，Granola也为其会议笔记工具增加听写功能，语音AI竞争加剧。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3599.02,
+        "changePercent": -1.4353,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10833.78,
+        "changePercent": -2.7331,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2413.63,
+        "changePercent": -4.1293,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-10-30",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
