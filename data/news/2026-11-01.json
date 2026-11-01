@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T02:32:40.932Z",
+  "coverageStart": "2026-10-30T16:00:00.000Z",
+  "coverageEnd": "2026-10-31T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "420fd151ca6ffeb4",
+      "title": "英伟达考虑为Nscale西弗吉尼亚AI数据中心贷款共同担保",
+      "originalTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T01:20:05.000Z",
+      "summary": "在投资者对AI支出感到紧张之际，由芯片销售商英伟达出面为相关贷款共同签署担保，可能有所帮助。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "4413e75a33c5a4c9",
+      "title": "隐私导向AI助手Ollie将关停",
+      "originalTitle": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T22:56:13.000Z",
+      "summary": "随着越来越多AI助手涌入市场，注重用户隐私的Ollie创始人表示，该服务将在一周后关闭。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "d95f2af92ca0c125",
+      "title": "英特尔股价大跌，政府持股价值缩水120亿美元",
+      "originalTitle": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:54:34.000Z",
+      "summary": "报道称，AI行业抢占内存等零部件推高PC价格、拖累PC销售，英特尔股价因此大跌，政府所持股份价值减少约120亿美元。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "f3e255de2b47ab3f",
+      "title": "Anthropic IPO后据称将获高“垃圾”信用评级",
+      "originalTitle": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:52:03.000Z",
+      "summary": "据FT报道，Anthropic在IPO后预计将获得信用机构的高“垃圾”评级；这将使其融资更困难、成本更高，以支持其巨额支出。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "5732896b70a3ac25",
+      "title": "科技极客的最后一刻万圣节装扮",
+      "originalTitle": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:26:59.000Z",
+      "summary": "没有万圣节装扮？可以扮成外表可爱但别有用心的AI代理图标、PHP漏洞，或困倦的Bryan Johnson。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "820dfbe7b2668830",
+      "title": "AI支出热潮出现裂痕",
+      "originalTitle": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:17:40.000Z",
+      "summary": "大型科技公司投入数十亿美元建设AI基础设施，但债务上升、现金流为负和投资者疑虑加深，令AI支出热潮的可持续性受到质疑。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "d42b8e56046bc19f",
+      "title": "多名MIT成员获2026年Schmidt Sciences AI2050 Fellowship",
+      "originalTitle": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+      "source": "MIT AI",
+      "publishedAt": "2026-10-30T20:15:00.000Z",
+      "summary": "五名MIT教职人员和两名校友获得该 fellowship，以推进有益AI研究。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "3dbc47c31caae532",
+      "title": "问答：AI，今年我该投票给谁？",
+      "originalTitle": "Q&A: Hey AI, who should I vote for this year?",
+      "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+      "source": "MIT AI",
+      "publishedAt": "2026-10-30T19:00:00.000Z",
+      "summary": "MIT教授Adam Berinsky与Chara Podimata讨论一个新项目，追踪AI聊天机器人如何回答有关2026年美国中期选举的问题。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "037154e824aaff25",
+      "title": "nemotron-halloween（信息不足）",
+      "originalTitle": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-30T17:57:24.000Z",
+      "summary": "输入仅含标题且来源摘要为空，信息不足，无法确认具体内容或生成更多摘要。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "4d0843b360d077cf",
+      "title": "Zest新AI代理可通过短信找餐厅并订位",
+      "originalTitle": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T17:47:12.000Z",
+      "summary": "意见不一时，Zest的AI concierge可综合大家口味、让餐厅选项投票，并完成预订。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "235bb524b25e5166",
+      "title": "谷歌首颗数据中心卫星上线并写诗",
+      "originalTitle": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T17:00:00.000Z",
+      "summary": "首颗在太空运行的TPU已上线，运行Google DeepMind的Gemma 4模型，并写下打油诗。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "621b53d3ad76e2c0",
+      "title": "Theranos吹哨人警告AI热潮可能助长欺骗",
+      "originalTitle": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T16:03:45.000Z",
+      "summary": "Theranos吹哨人Tyler Shultz警告，AI热潮是“欺骗他人的大好机会”；在AI时代，从未盈利的公司正以万亿美元估值融资，使这一警示更具意义。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3599.02,
+        "changePercent": -1.4353,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10833.78,
+        "changePercent": -2.7331,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2413.63,
+        "changePercent": -4.1293,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-10-30",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
