@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T02:43:34.389Z",
+  "coverageStart": "2026-10-31T16:00:00.000Z",
+  "coverageEnd": "2026-11-01T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "d9269f49d95d2fae",
+      "title": "苹果CEO称公司不想“为AI而AI”",
+      "originalTitle": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T21:41:00.000Z",
+      "summary": "苹果新任CEO为公司当前在AI领域的立场辩护，表示不会为了推出AI而推出AI。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "2065ffa365f3e4d6",
+      "title": "TechCrunch创始人峰会倒计时4天：助你建立更有效联系以规模化",
+      "originalTitle": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T21:36:07.000Z",
+      "summary": "TechCrunch创始人峰会将于11月4日在波士顿SoWa Power Station举行，提供人脉拓展、可执行见解与连接机会，称可帮助想法和初创公司规模化；现场票价将上涨。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "204d5faf405d3242",
+      "title": "法官允许NAACP就xAI数据中心污染提起诉讼继续推进",
+      "originalTitle": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T21:17:03.000Z",
+      "summary": "NAACP诉讼指控SpaceX旗下的AI公司xAI违反《清洁空气法》；法官允许该案继续推进。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "6ec02213d45abe3d",
+      "title": "报道称OpenAI下调新一轮融资目标",
+      "originalTitle": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "summary": "OpenAI最新融资轮似乎未达预期，报道称其已降低融资目标。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3599.02,
+        "changePercent": -1.4353,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10833.78,
+        "changePercent": -2.7331,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2413.63,
+        "changePercent": -4.1293,
+        "tradeDate": "2026-10-30",
+        "previousTradeDate": "2026-10-29",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-10-30",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
