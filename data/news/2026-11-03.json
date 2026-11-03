@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T04:00:52.921Z",
+  "coverageStart": "2026-11-01T16:00:00.000Z",
+  "coverageEnd": "2026-11-02T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "5a201e1426e1fb30",
+      "title": "Omen AI 以1600万美元收购 Aquatic Labs，整合液冷技术",
+      "originalTitle": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-02T15:00:00.000Z",
+      "summary": "两家致力于解决数据中心用水问题的初创公司宣布合并，交易金额为1600万美元。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "3e83c93cde505302",
+      "title": "TechCrunch Founder Summit 倒计时两天：波士顿创始人无需硅谷地址也能成就大事",
+      "originalTitle": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "summary": "TechCrunch Founder Summit 将于11月4日在波士顿举行，面向创始人提供议程与交流机会，并有限时优惠。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "e732affa3e390d12",
+      "title": "OpenAI 将合并 ChatGPT 的 Chat 与 Work 标签页",
+      "originalTitle": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-02T13:57:53.000Z",
+      "summary": "OpenAI 表示，此次调整后 ChatGPT 与 Codex 将共用同一使用额度池。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "981c51fa20c4c252",
+      "title": "Barzilay 与 Collins 因 AI 抗生素发现获 Pritzker AI 与科学研究卓越奖",
+      "originalTitle": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+      "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-02T05:35:00.000Z",
+      "summary": "两位 MIT 教授合作识别出首个由 AI 发现的抗生素，被视为 AI 驱动药物发现的里程碑。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "944be91cc06a18a8",
+      "title": "OpenAI 或将把数据中心改名为“AI 计算园区”",
+      "originalTitle": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "summary": "报道称数据中心不受欢迎，OpenAI 考虑用新名称指代其数据中心设施。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "7a5ce7ed2f78d284",
+      "title": "AI 能让科技 CEO 更轻松，那其他人呢？",
+      "originalTitle": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "summary": "在 Equity 节目中讨论科技 CEO 关于 AI 的表态为何显得脱离大众感受。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3638.03,
+        "changePercent": 1.0839,
+        "tradeDate": "2026-11-02",
+        "previousTradeDate": "2026-10-30",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 11010.68,
+        "changePercent": 1.6329,
+        "tradeDate": "2026-11-02",
+        "previousTradeDate": "2026-10-30",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2458.7,
+        "changePercent": 1.8673,
+        "tradeDate": "2026-11-02",
+        "previousTradeDate": "2026-10-30",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-02",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
