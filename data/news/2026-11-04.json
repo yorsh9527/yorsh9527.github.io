@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T03:13:02.897Z",
+  "coverageStart": "2026-11-02T16:00:00.000Z",
+  "coverageEnd": "2026-11-03T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "5eba943719a0061f",
+      "title": "苹果将约会应用和 AI 伴侣限制为 18 岁以上用户",
+      "originalTitle": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T15:38:27.000Z",
+      "summary": "苹果新 App Store 规则将要求提供性内容或浪漫内容的约会应用和 AI 伴侣获得 18+ 评级。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "d683890ef6589f42",
+      "title": "TechCrunch Founder Summit 议程只是 11 月 4 日波士顿之行的部分理由",
+      "originalTitle": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T14:30:00.000Z",
+      "summary": "TechCrunch Founder Summit 2026 将于 11 月 4 日在波士顿 SoWa Power Station 举行，连接创始人与 VC，提供实用见解与人脉；现场票价上涨前可注册。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "9963b02b6cee4dcd",
+      "title": "明日 TechCrunch Founder Summit 登陆波士顿，通行证价格将上涨",
+      "originalTitle": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "summary": "TechCrunch Founder Summit 通行证优惠将于明日上午 9 点（ET）涨价前截止，最高可省 100 美元，并可获赠第二张。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "aafb2d2c8fa21079",
+      "title": "Apple Watch 对话回溯与摘要 AI 功能开始 Beta 测试",
+      "originalTitle": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T07:20:00.000Z",
+      "summary": "苹果新的 Audio Intelligence 功能进入 Beta，可帮助记住某人说过的话或对对话做笔记。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "23abe1f1b0a2b246",
+      "title": "谷歌将 Dreambeans 带到印度，推动 AI 生成个人故事大众化",
+      "originalTitle": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T03:30:00.000Z",
+      "summary": "谷歌最新 AI 实验 Dreambeans 现支持 13 种印度语言，旨在将 AI 生成的个人故事带给大众。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "804d2e2f62a5210f",
+      "title": "苹果或借第三方 AI 应用探索增收方式",
+      "originalTitle": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T01:49:52.000Z",
+      "summary": "苹果在周一晚间财报电话会上暗示，可能通过第三方“机会”推动收入增长，但未说明具体做法。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "dfb1d49114f0805e",
+      "title": "Y Combinator 的 Garry Tan 重度使用 AI 智能体，每年 token 花费最高 20 万美元",
+      "originalTitle": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T00:35:52.000Z",
+      "summary": "Tan 在播客中笑称自己出现“网络精神病”，有时几乎不睡，因为与 AI 智能体工作很兴奋；他给这份热情标了价。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "63945bc794809749",
+      "title": "CWE-bench v2：覆盖更广、质量更高、更透明",
+      "originalTitle": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "summary": "输入仅提供标题，未提供更多摘要信息。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "a6f54d325d31634f",
+      "title": "Transformers 模型集成契约",
+      "originalTitle": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "summary": "输入仅提供标题，信息不足，无法生成更具体摘要。",
+      "category": "开源生态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "c8564f3a68709075",
+      "title": "Trajectory 融资 4500 万美元，让非技术专家也能训练 AI 模型",
+      "originalTitle": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-02T23:13:53.000Z",
+      "summary": "这家成立一年的初创公司估值达 3 亿美元，目标是让非技术专家也能参与 AI 模型训练。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "ca204e1c0052a712",
+      "title": "Anthropic 警告已非常接近 RSI 能力，即“自我构建的 AI”",
+      "originalTitle": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-02T22:14:50.000Z",
+      "summary": "RSI 指 AI 训练自身能力强到引发能力急剧加速；对 AI 末日论者而言，这代表无法回头的灾难。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "5fc0241e25c90db0",
+      "title": "为关键节点蓄能",
+      "originalTitle": "Powering up for a pivotal moment",
+      "url": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-02T19:55:00.000Z",
+      "summary": "MIT 能源倡议年度研究会议关注从核能复兴到量子比特，追踪当今技术部署与明日突破发现。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3608.1,
+        "changePercent": -0.8227,
+        "tradeDate": "2026-11-03",
+        "previousTradeDate": "2026-11-02",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10876.99,
+        "changePercent": -1.2142,
+        "tradeDate": "2026-11-03",
+        "previousTradeDate": "2026-11-02",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2391.65,
+        "changePercent": -2.7271,
+        "tradeDate": "2026-11-03",
+        "previousTradeDate": "2026-11-02",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-03",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
