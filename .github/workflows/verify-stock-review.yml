@@ -1,0 +1,67 @@
+name: Validate A-share review
+on:
+  push:
+    branches: [verify-stock-review]
+    paths: ['.github/workflows/verify-stock-review.yml']
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Asia/Shanghai
+      PYTHONUTF8: '1'
+      MARKET_REVIEW_REGION: cn
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: ZhuLinsen/daily_stock_analysis
+          ref: ef44660f00e08ce66dcd4dc4d2e700836c45e833
+          path: stock-workbench
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r stock-workbench/requirements.txt
+      - name: Generate review without notifications
+        working-directory: stock-workbench
+        run: python main.py --market-review --no-notify 2>&1 | tee "$RUNNER_TEMP/review.log"
+      - name: Verify trading date and index closes
+        env:
+          PYTHONPATH: stock-workbench:scripts/news
+        run: |
+          python - <<'PY'
+          import math
+          import os
+          import re
+          from datetime import date
+          from pathlib import Path
+
+          from market import collect
+          from src.services.history_service import HistoryService
+          from src.storage import DatabaseManager
+
+          log = (Path(os.environ["RUNNER_TEMP"]) / "review.log").read_text()
+          match = re.search(r"query_id=(market_review_[0-9a-f]+)", log)
+          if match is None:
+              raise SystemExit("No review was generated. Run on a CN trading day after close.")
+          os.chdir("stock-workbench")
+          history = HistoryService(DatabaseManager.get_instance()).resolve_and_get_detail(match[1])
+          review = history["context_snapshot"]["market_review_payload"]
+          review = review.get("markets", {}).get("cn", review)
+          trade_date = date.fromisoformat(review["date"])
+          reference = collect(trade_date)
+          quotes = {re.search(r"[0-9]{6}", item["code"])[0]: item for item in review["indices"]}
+          if review["region"] != "cn" or reference["status"] != "ok":
+              raise SystemExit("A-share review or reference quotes unavailable")
+          for index in reference["indices"]:
+              quote = quotes.get(index["code"][:6])
+              if (index["tradeDate"] != trade_date.isoformat() or not quote
+                      or not math.isclose(index["close"], quote["current"], abs_tol=0.02)):
+                  raise SystemExit(f"Trading date or close mismatch for {index['code']}")
+          print(f"Verified three index closes for {trade_date}; "
+                f"breadth available: {bool(review.get('breadth'))}; "
+                f"industry leaders: {len(review.get('sectors', {}).get('top', []))}")
+          PY
