@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T04:29:50.546Z",
+  "coverageStart": "2026-11-17T16:00:00.000Z",
+  "coverageEnd": "2026-11-18T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "aef632472a5e3af7",
+      "title": "Streamhouse中的时间序列模型：新前沿与应用场景",
+      "originalTitle": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-18T15:00:23.000Z",
+      "summary": "标题显示内容聚焦Streamhouse中的时间序列模型及其新前沿与应用案例；来源未提供更多摘要，细节有限。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "92c4470851babd48",
+      "title": "英伟达澄清何时会、何时不会继续为新型云厂商提供融资支持",
+      "originalTitle": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "summary": "临时CEO Colette Kress称，若英伟达为数据中心贷款提供支持，只有在新型云厂商获得独立融资、设施建成并安装英伟达设备时，英伟达才会承担相关责任。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "00b7a83010aaeca9",
+      "title": "Felicis领投750万美元，押注Unsiloed AI让企业文档可供AI代理使用",
+      "originalTitle": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "summary": "Unsiloed AI获Felicis领投的750万美元投资，团队仅7人，计划在拥挤的AI文档处理市场与科技巨头和专业初创公司竞争。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "7910f56b348bc37f",
+      "title": "印度Humyn Labs融资4700万美元，为美国机器人公司提供所需数据",
+      "originalTitle": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T11:30:00.000Z",
+      "summary": "Humyn Labs今年2月成立，融资4700万美元，与Mecka AI、XDOF等竞争，约90%收入来自美国。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "55cafb7085284a53",
+      "title": "帮助AI文本检测器适应不断变化的条件",
+      "originalTitle": "Helping AI text detectors keep up with changing conditions",
+      "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "summary": "一种更灵活的训练方法可让AI文本检测器在新模型出现或AI生成文本被伪装成人类文本时保持更强鲁棒性。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "b330164a6f0ccccf",
+      "title": "英伟达初创企业持股膨胀至650亿美元，但黄仁勋离开令未来交易存疑",
+      "originalTitle": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T01:44:21.000Z",
+      "summary": "过去九个月，英伟达私人投资价值因激进交易和现有投资组合估值上升而接近三倍，增至650亿美元；黄仁勋的离开使未来交易前景存疑。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "ceeb5bf897d71eb6",
+      "title": "英伟达承诺营收将继续飙升——但目前如此",
+      "originalTitle": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T00:16:50.000Z",
+      "summary": "在创始人兼CEO黄仁勋离开后公司陷入动荡之际，英伟达预计其创纪录营收势头不会停止。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "ec56b5eff9affb1c",
+      "title": "180B参数、32GB内存：用Transformers将MoE推理推向极限",
+      "originalTitle": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "summary": "标题显示内容探讨在32GB内存条件下，利用Transformers进行180B参数MoE模型推理的极限；来源未提供更多摘要。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "5b89a2db7f60ae90",
+      "title": "Rumble-2-Flash：面向40多种语言的开放0.5B语音模型",
+      "originalTitle": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "summary": "标题显示Rumble-2-Flash是一个开放的小型语音模型，参数规模0.5B，支持40多种语言；来源未提供更多摘要。",
+      "category": "开源生态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "89ca5c5934ce4af9",
+      "title": "聚焦AI、社会与人类",
+      "originalTitle": "Putting a spotlight on AI, society, and humanity",
+      "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-17T20:40:00.000Z",
+      "summary": "在MIT人类洞察协作组织支持下，学者探讨AI如何影响人类经验并重塑高等教育。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3587.83,
+        "changePercent": 0.0907,
+        "tradeDate": "2026-11-18",
+        "previousTradeDate": "2026-11-17",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10659.41,
+        "changePercent": 0.1964,
+        "tradeDate": "2026-11-18",
+        "previousTradeDate": "2026-11-17",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2311.62,
+        "changePercent": 0.8472,
+        "tradeDate": "2026-11-18",
+        "previousTradeDate": "2026-11-17",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-18",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
