@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T04:15:00.626Z",
+  "coverageStart": "2026-11-18T16:00:00.000Z",
+  "coverageEnd": "2026-11-19T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "ddb4b8e8befa63e4",
+      "title": "Anthropic IPO 检验 AI 循环融资热潮",
+      "originalTitle": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19T14:54:39.000Z",
+      "summary": "Anthropic 上市面临巨额算力承诺，但其最大基础设施合作伙伴亚马逊和谷歌即便在 Anthropic 失去领先地位时也可能继续从 AI 获利。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "91089de2fc64468c",
+      "title": "Superhuman 将 Go 助手推向更多场景",
+      "originalTitle": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "summary": "Superhuman 正把 Go 作为核心智能体，并在 Docs 和 Mail 中提供。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "6bdfccb498eb826a",
+      "title": "研究揭示数据中心长距离空气污染影响",
+      "originalTitle": "Study reveals data centers’ long-distance damage to air quality",
+      "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "summary": "研究发现数据中心用电产生的空气污染可影响远离设施的社区，中西部部分地区受影响最严重。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "108d95f376814446",
+      "title": "纳德拉解释为何让 6 万名员工自愿离职",
+      "originalTitle": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19T00:42:56.000Z",
+      "summary": "微软 CEO 纳德拉解释十月向 6 万名员工提供买断方案、鼓励自愿离职而非再次大规模裁员，简短答案是 AI，但并非人们预想的方式。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "afb1f8fc849417da",
+      "title": "面对 AI 网络攻击担忧，纳德拉称大量关键基础设施“无法打补丁”",
+      "originalTitle": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T23:45:00.000Z",
+      "summary": "微软 CEO 淡化了近期 Outlook 故障，同时指出 AI 既带来机遇，也给连接世界的安全带来新挑战。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "e78487095dd37232",
+      "title": "马斯克：赶走黄仁勋如同把乔丹踢出球队",
+      "originalTitle": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T23:25:17.000Z",
+      "summary": "马斯克表示不认为黄仁勋对美国不忠诚。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "d442346cc5e57a26",
+      "title": "黄仁勋退出后，纳德拉仍对英伟达有信心",
+      "originalTitle": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T23:17:28.000Z",
+      "summary": "纳德拉对英伟达临时 CEO、黄仁勋继任者 Colette Kress 表示信心。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "49ff21afd78ef9de",
+      "title": "纳德拉预测 AI 智能体将重塑网络经济",
+      "originalTitle": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T22:58:11.000Z",
+      "summary": "微软 CEO 称 AI 智能体可能颠覆广告驱动商业模式，迫使亚马逊等公司重新思考如何争夺客户。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "aed3ea0dfc61854d",
+      "title": "Anthropic IPO 定价每股 83 美元，高于预期区间",
+      "originalTitle": "Anthropic prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T22:11:15.000Z",
+      "summary": "报道称，这场备受期待的 IPO 按完全稀释基准对公司的估值为 1.5 万亿美元。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "80bdab190c6dbdb4",
+      "title": "英伟达未提交例行 SEC 报告引发猜测",
+      "originalTitle": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T21:57:40.000Z",
+      "summary": "一名华尔街分析师弄清英伟达意外宣布数周内不会提交正式季度业绩文件 10-Q 的原因。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "f0b81ce3c1461288",
+      "title": "DaisyRose-27B：推进后训练效率前沿",
+      "originalTitle": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-18T19:54:56.000Z",
+      "summary": "仅提供标题，缺乏来源摘要，无法生成更多细节。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "f4d5cc76792a20c6",
+      "title": "超轻飞行机器人自带传感器和计算机",
+      "originalTitle": "This featherweight, flying robot carries its own sensors and computers",
+      "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-18T19:00:00.000Z",
+      "summary": "这款快速微型机器人无需外部动作捕捉系统即可飞行，使其更接近农业或工业 surveillance 等应用。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3577.62,
+        "changePercent": -0.2846,
+        "tradeDate": "2026-11-19",
+        "previousTradeDate": "2026-11-18",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10583.2,
+        "changePercent": -0.715,
+        "tradeDate": "2026-11-19",
+        "previousTradeDate": "2026-11-18",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2293.34,
+        "changePercent": -0.7908,
+        "tradeDate": "2026-11-19",
+        "previousTradeDate": "2026-11-18",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-19",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
