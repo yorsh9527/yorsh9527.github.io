@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T04:16:05.160Z",
+  "coverageStart": "2026-11-19T16:00:00.000Z",
+  "coverageEnd": "2026-11-20T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "29c6398dc2aba28f",
+      "title": "“数学末日”之后，数学家思考未来",
+      "originalTitle": "Following the “mathocalypse,” mathematicians consider the future",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-20T15:20:00.000Z",
+      "summary": "MIT一场小组讨论探讨AI对数学发现及数学从业者的影响。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "bbcc1ed9f7950c3b",
+      "title": "英伟达黄仁勋丑闻余波持续",
+      "originalTitle": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T14:55:44.000Z",
+      "summary": "摘要称，在CEO黄仁勋离职风波中，英伟达发布财报，增长稳健并称好景将持续；公司表示将停止在中国销售H200芯片，并驳回相关呼吁。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "4d2d20d171989c2f",
+      "title": "六款AI小工具让你的家庭办公室更智能",
+      "originalTitle": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "summary": "从笔记工具到网络摄像头，本文介绍六款可升级工作空间的AI驱动设备。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "8288c457eabd2464",
+      "title": "苹果或开发可运行Mac的自家AI智能体",
+      "originalTitle": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T00:56:01.000Z",
+      "summary": "摘要称，苹果似乎正在构建AI智能体，可与Meta Muse、Instinct、Claude和OpenAI Dots等竞争。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "327354b7a28e2854",
+      "title": "Anthropic七位创始人在创纪录IPO中套现近20亿美元",
+      "originalTitle": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T00:43:50.000Z",
+      "summary": "摘要称，在每股83美元的IPO定价下，Anthropic七位创始人各套现2.8亿美元，公司募集近1050亿美元。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "824c03b970f1dc58",
+      "title": "欢迎Inkling 2 Mini：为本地环境带来前沿性能",
+      "originalTitle": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "仅提供标题，摘要信息不足，无法补充具体细节。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "701a571706ec6c00",
+      "title": "推出Harness适配器：将常用模型适配到你的工具链",
+      "originalTitle": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "仅提供标题，信息不足，无法说明适配器细节与效果。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "c842cebd4bd1f2ab",
+      "title": "AI帮研究人员调查数千项医学研究如何共享代码",
+      "originalTitle": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-19T22:15:00.000Z",
+      "summary": "MIT与Dana-Farber团队用大语言模型分析近4000项研究和数百个代码库，揭示审查与复用已发表研究所需信息的缺口。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "094a4dd2aa9bf45f",
+      "title": "Meta新款Muse Charm设备或售价300美元",
+      "originalTitle": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19T21:58:06.000Z",
+      "summary": "摘要称，Meta未否认The Information的报道，仅表示即将分享更多关于其AI可穿戴设备的信息。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "8028310220014671",
+      "title": "这些技术故障有“千年虫”既视感，AI智能体风格",
+      "originalTitle": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19T21:42:31.000Z",
+      "summary": "摘要称，近期航空订票、银行和生产效率平台故障是否巧合引发疑问；网络安全专家认为背后可能有更深层原因。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "1fbaae0c3ffb18e8",
+      "title": "黄仁勋丑闻时间线：事态仍在展开",
+      "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19T20:18:49.000Z",
+      "summary": "摘要称，黄仁勋因婚外情从英伟达辞职，此事可能在中美竞逐先进AI基础设施之际影响国家安全。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "888f64c038855a1c",
+      "title": "没有量子计算机就赢不了的游戏",
+      "originalTitle": "A game you cannot win unless you have a quantum computer",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+      "source": "Google Research",
+      "publishedAt": "2026-11-19T20:03:00.000Z",
+      "summary": "仅提供“Quantum”一词，信息不足，无法概述游戏细节。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3533.79,
+        "changePercent": -1.2251,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10256.39,
+        "changePercent": -3.088,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2212.13,
+        "changePercent": -3.5411,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-20",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
