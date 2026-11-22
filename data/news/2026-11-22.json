@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T03:27:41.143Z",
+  "coverageStart": "2026-11-20T16:00:00.000Z",
+  "coverageEnd": "2026-11-21T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "536d4386c711aad4",
+      "title": "Google Duplex 如何演进为在 Gemini 中代用户致电商家",
+      "originalTitle": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "source": "Google Research",
+      "publishedAt": "2026-11-20T23:30:30.000Z",
+      "summary": "介绍 Google Duplex 的演进，以及它如何在 Gemini 中代用户致电商家。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "35c2239500f319c9",
+      "title": "问答：让多模态基础模型实现更类人的交互与理解",
+      "originalTitle": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-20T21:00:00.000Z",
+      "summary": "资深研究科学家 Jim Glass 讨论其 MIT-IBM 计算研究实验室合作如何连接感知与语言，并应对当前模型的不足。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "b2926e8e7f4e634a",
+      "title": "新方法让混沌系统 AI 模型保持物理一致性",
+      "originalTitle": "New approach enables physically consistent AI models of chaotic systems",
+      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-20T20:00:00.000Z",
+      "summary": "通过施加物理约束，防止 AI 模型在天气、气候和湍流等复杂非线性系统中生成不可靠预测。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "05d06a2ae37185a1",
+      "title": "Daniel Ek 投资 AI 研究者的聚变能源初创公司",
+      "originalTitle": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "summary": "Spotify 创始人 Daniel Ek 支持由 AI 研究者创办的聚变能源初创公司 Europa Fusion；文章介绍其正在构建的项目。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "81e856d23e6ca940",
+      "title": "AI 宣称攻克黎曼猜想，人类也提出竞争性解法",
+      "originalTitle": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T19:32:08.000Z",
+      "summary": "数学家对最新 AI 驱动结果感到震惊，同时还存在一份竞争性的人类解法。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "fc059eec5b023eb8",
+      "title": "芯片能经受太空环境，融资能否经受？",
+      "originalTitle": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T17:40:01.000Z",
+      "summary": "贷款机构不希望 SpaceX 将抵押品送入轨道，文章由此讨论太空数据中心整体面临的融资问题。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3533.79,
+        "changePercent": -1.2251,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10256.39,
+        "changePercent": -3.088,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2212.13,
+        "changePercent": -3.5411,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "腾讯财经 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-20",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
