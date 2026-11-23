@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T03:59:18.245Z",
+  "coverageStart": "2026-11-21T16:00:00.000Z",
+  "coverageEnd": "2026-11-22T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "7289e21f33e265e9",
+      "title": "Signal 限制移动端截图，以应对 AI 监控的“生存威胁”",
+      "originalTitle": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "summary": "Signal 正在限制 Android 和 iOS 应用内的截图功能，背景是其面对 AI 监控带来的“生存威胁”。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "8ed913cfa76c678b",
+      "title": "“两个英伟达”：财报与高管呼吁黄仁勋回归形成反差",
+      "originalTitle": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "summary": "文章对比英伟达的两幅图景：最新财报，以及科技高管公开呼吁黄仁勋回归。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "d15566b2aef3b460",
+      "title": "可驻留短信中的热门 AI 智能体盘点",
+      "originalTitle": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "summary": "文章列出可在短信中运行的知名 AI 智能体，涵盖通用助手以及面向家庭、旅行和工作的智能体。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "53e893a48ca02ab2",
+      "title": "把 AI 版人脸卖给微短剧初创公司，会成为好莱坞未来吗？",
+      "originalTitle": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "summary": "一名演员已将面部授权给一家微短剧初创公司；这类做法在中国已流行，专家质疑若在好莱坞成为趋势的长期后果。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3533.79,
+        "changePercent": -1.2251,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10256.39,
+        "changePercent": -3.088,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2212.13,
+        "changePercent": -3.5411,
+        "tradeDate": "2026-11-20",
+        "previousTradeDate": "2026-11-19",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-20",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
