@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T07:05:16.648Z",
+  "coverageStart": "2026-11-22T16:00:00.000Z",
+  "coverageEnd": "2026-11-23T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "5876b76a766d77a5",
+      "title": "特朗普支持黄仁勋重返英伟达，称美国未发现不当行为证据",
+      "originalTitle": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T15:04:01.000Z",
+      "summary": "特朗普援引美国司法部长为黄仁勋回归辩护，并敦促英伟达继续开展出口管制调查。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "10ed8c9647ecbbfb",
+      "title": "Sierra估值六个月内翻倍至300亿美元，AI客户体验需求升温",
+      "originalTitle": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T14:43:03.000Z",
+      "summary": "由前Salesforce联合CEO Bret Taylor共同创办的企业客户体验公司Sierra称，已在F轮融资中筹集17.5亿美元。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "0affd11db18d8630",
+      "title": "英伟达改变决定，重新让黄仁勋出任CEO",
+      "originalTitle": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T14:21:59.000Z",
+      "summary": "这一惊人逆转获得美国政府高级官员支持。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "e652a8cea9964851",
+      "title": "AI技术有望帮助工程师更快、更低成本设计模拟芯片",
+      "originalTitle": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "“SLIC”训练方法使小型大语言模型能在复杂电路设计任务中与资源消耗更大的模型竞争。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "04e5e033b7998e4f",
+      "title": "Notable Capital、GIC和Baillie Gifford如何在Anthropic IPO前重注",
+      "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T01:25:53.000Z",
+      "summary": "三家重要投资方分享它们为何有信心向Anthropic投入数十亿美元。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "00d52199bef25f9e",
+      "title": "如何构建和维护智能体评估",
+      "originalTitle": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "summary": "仅提供标题，缺乏正文摘要，无法进一步概括。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "90468db0d5a9c8d3",
+      "title": "OpenAI首席科学家谈如何限制AI发展",
+      "originalTitle": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-22T21:14:07.000Z",
+      "summary": "其观点认为，要为AI发展设定“限速”，首先需就如何衡量发展速度达成一致。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "b51af88d58d8138d",
+      "title": "为何数据中心成为大型科技公司遭遇反弹的焦点",
+      "originalTitle": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "summary": "记者Paris Marx解读其新书《Hyperscale》，讨论数据中心相关问题。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3538.95,
+        "changePercent": 0.146,
+        "tradeDate": "2026-11-23",
+        "previousTradeDate": "2026-11-20",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10454.37,
+        "changePercent": 1.9303,
+        "tradeDate": "2026-11-23",
+        "previousTradeDate": "2026-11-20",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2280.2,
+        "changePercent": 3.0771,
+        "tradeDate": "2026-11-23",
+        "previousTradeDate": "2026-11-20",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-23",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
