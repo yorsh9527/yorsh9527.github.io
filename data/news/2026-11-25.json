@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T05:39:51.691Z",
+  "coverageStart": "2026-11-23T16:00:00.000Z",
+  "coverageEnd": "2026-11-24T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "352ca41f41cfcf5a",
+      "title": "亚马逊收购Decart：押注用软件缩小与英伟达的芯片差距",
+      "originalTitle": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T15:51:07.000Z",
+      "summary": "亚马逊收购Decart，旨在通过软件提升Trainium芯片效率，缩小与英伟达的芯片差距。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "a72cc3aa1f3d17c0",
+      "title": "Anthropic推出Claude Ship，让AI智能体审查、修复并批准代码变更",
+      "originalTitle": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "summary": "随着AI生成代码增多，Anthropic的新开发者工具让智能体处理常规审批，以减少代码审查瓶颈。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "eea6d4f773cb5b5a",
+      "title": "Supertake融资，让AI智能体把市场预测转化为股票组合",
+      "originalTitle": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T22:02:05.000Z",
+      "summary": "Supertake让用户把资金押注于自己的市场判断，由AI智能体代为构建股票组合，无需自己选股。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "d4f79d2af1d5e9d7",
+      "title": "黄仁勋在英伟达复职，马斯克等人表示欢迎",
+      "originalTitle": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T21:47:41.000Z",
+      "summary": "在相关风波后，黄仁勋重返英伟达，马斯克称“错误已纠正”，其他人也表达欢迎。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "bcef4e5640ff9cf5",
+      "title": "处于黄仁勋风波中心的Megaspeed或将被美国列入黑名单",
+      "originalTitle": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T21:25:42.000Z",
+      "summary": "Megaspeed可能被禁止与美国公司交易，除非获得联邦政府特别许可；该公司此前由Alice Huang领导。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "dfa0b937d567023b",
+      "title": "多语言，一种共同的神经编码",
+      "originalTitle": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-23T21:15:00.000Z",
+      "summary": "MIT利用多语言AI分析多种语言使用者，发现人脑可能以相似方式表征语义。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "19cceeec9c2ac703",
+      "title": "黄仁勋重返英伟达总部，员工英雄般欢迎",
+      "originalTitle": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T20:38:53.000Z",
+      "summary": "黄仁勋回到英伟达总部受到员工欢迎，并表示第二次担任CEO会做得更好。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "50419d3a895fb0e4",
+      "title": "谷歌搜索AI模式可接入Drive和Wallet，提供更个性化回答",
+      "originalTitle": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T19:14:46.000Z",
+      "summary": "谷歌将AI模式的个人智能扩展至Drive、Wallet和Gemini应用，利用生态内用户数据提供个性化响应。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "9f6a9f2b4d78ebc0",
+      "title": "黄仁勋复职后下周将赴参议院作证",
+      "originalTitle": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T18:12:22.000Z",
+      "summary": "黄仁勋重返英伟达CEO岗位后，参议院将举行公开听证会；此前两党呼吁他就相关事件作证。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "990f58ceeb055fd1",
+      "title": "增强Transformer残差连接",
+      "originalTitle": "Supercharging transformer residual connections",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Google Research",
+      "publishedAt": "2026-11-23T17:21:12.000Z",
+      "summary": "一篇算法与理论方向的文章，讨论增强Transformer残差连接；标题未提供更多细节。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "eb2701ff66febea2",
+      "title": "RoboTrack：面向真实世界机器人操作的点跟踪",
+      "originalTitle": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-23T17:20:37.000Z",
+      "summary": "仅从标题看，RoboTrack关注真实机器人操作中的点跟踪；来源未提供摘要，细节不足。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3548.37,
+        "changePercent": 0.2662,
+        "tradeDate": "2026-11-24",
+        "previousTradeDate": "2026-11-23",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10423.6,
+        "changePercent": -0.2943,
+        "tradeDate": "2026-11-24",
+        "previousTradeDate": "2026-11-23",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2278.99,
+        "changePercent": -0.0531,
+        "tradeDate": "2026-11-24",
+        "previousTradeDate": "2026-11-23",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-24",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
