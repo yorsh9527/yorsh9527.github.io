@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T05:25:35.125Z",
+  "coverageStart": "2026-11-24T16:00:00.000Z",
+  "coverageEnd": "2026-11-25T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "ef02d096cf97eadc",
+      "title": "AI数据中心建设难度上升，新云厂商承压",
+      "originalTitle": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T15:41:43.000Z",
+      "summary": "英伟达明确在AI数据中心接近可运行前不会兜底，新云厂商报告建设延迟和债务成本上升；对开发商而言，土地、电力与竣工建筑比推介材料更重要。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "9d204a99ce77317c",
+      "title": "亚马逊与Meta据悉洽谈解除对AI代理Muse的封锁",
+      "originalTitle": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T14:10:18.000Z",
+      "summary": "亚马逊与Meta正讨论一项潜在交易，以结束对AI代理Muse长达两个月的封锁。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "5f2a9faee9c0f0d0",
+      "title": "黄仁勋与英伟达就Megaspeed仍需回答的问题",
+      "originalTitle": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T13:00:00.000Z",
+      "summary": "调查的核心问题是英伟达对这些芯片最终去向知道什么，以及黄仁勋与Megaspeed高管的关系是否让公司有理由怀疑其保证。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "0077e07924e43bf7",
+      "title": "基于CUGA的印度语语音代理",
+      "originalTitle": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-25T10:22:09.000Z",
+      "summary": "来源仅提供标题，未提供摘要，信息不足，无法生成更多内容。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "11304642d4ef0ee9",
+      "title": "耶鲁Sonnenfeld：英伟达是美国工业实力的‘损害’而非捍卫者",
+      "originalTitle": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T00:12:02.000Z",
+      "summary": "耶鲁的Jeffrey Sonnenfeld警告，市场欢呼的黄仁勋在白宫支持下回归英伟达CEO和董事可能是个巨大错误，或使董事面临历史性个人责任，并引发美国是否在庆祝一家帮助将先进芯片送入对手之手的公司的问题。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "df3be113c8aed13f",
+      "title": "在单块RTX PRO 6000上对Inkling 2 Mini推理进行爬山优化",
+      "originalTitle": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "summary": "来源仅提供标题，未提供摘要，信息不足。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "3f66369c8927dc1a",
+      "title": "黄仁勋仍认为继任计划会造成不必要的层级",
+      "originalTitle": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T22:27:52.000Z",
+      "summary": "对于一家过去两周才体会到没有创始人会发生什么的公司而言，这一立场引人注目。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "a919734a680de1b2",
+      "title": "黄仁勋全员会上感谢白宫并称正在接受治疗",
+      "originalTitle": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T21:48:27.000Z",
+      "summary": "黄仁勋在全员会上感谢白宫，称正在接受治疗；他周二向员工道歉，并表示感激第二次领导公司的机会。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "ddf5f5e1e3a03a64",
+      "title": "即使最好的AI代理也难以应对日常生活",
+      "originalTitle": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T21:33:29.000Z",
+      "summary": "随着数百万人使用个人AI助手，一项新基准显示，即使最先进的AI模型也难以可靠、安全地完成日常任务而不引入潜在新问题。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "a18f6caa7fc18d5b",
+      "title": "沃尔玛与Meta合作，将黑五优惠引入AI代理Muse",
+      "originalTitle": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T21:32:38.000Z",
+      "summary": "沃尔玛现在允许顾客通过Meta的AI代理Muse选购黑色星期五优惠商品。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "9fd8a5bde39c37e2",
+      "title": "Maple融资530万美元，构建连自身也无法访问用户数据的AI产品",
+      "originalTitle": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T21:19:52.000Z",
+      "summary": "该初创公司的加密AI架构旨在防止公司自身访问用户私人数据。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "15de07f0ce6e6083",
+      "title": "代理系统个性化物理控件，助用户像DJ一样创作艺术",
+      "originalTitle": "Agentic system personalizes physical controls to help users “DJ their art”",
+      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+      "source": "MIT AI",
+      "publishedAt": "2026-11-24T19:30:00.000Z",
+      "summary": "“TangiMap”利用AI代理重新编程按钮、旋钮和滑块的用途，帮助用户以更动态、更具触感的方式编辑照片和演奏音乐。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3476.47,
+        "changePercent": -2.0263,
+        "tradeDate": "2026-11-25",
+        "previousTradeDate": "2026-11-24",
+        "provider": "腾讯财经 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10086.36,
+        "changePercent": -3.2354,
+        "tradeDate": "2026-11-25",
+        "previousTradeDate": "2026-11-24",
+        "provider": "腾讯财经 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2183.58,
+        "changePercent": -4.1865,
+        "tradeDate": "2026-11-25",
+        "previousTradeDate": "2026-11-24",
+        "provider": "腾讯财经 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-25",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
