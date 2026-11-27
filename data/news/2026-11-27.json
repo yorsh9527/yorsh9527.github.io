@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T05:20:24.502Z",
+  "coverageStart": "2026-11-25T16:00:00.000Z",
+  "coverageEnd": "2026-11-26T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "a734da9d3a1d8760",
+      "title": "llama.cpp 推出面向 AMD Ryzen 和 Radeon 的基准测试仪表板",
+      "originalTitle": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "summary": "来源仅提供标题，未给出仪表板的详细功能、性能数据或发布时间。",
+      "category": "开源生态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "3d2697b636d74b83",
+      "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调与更快推理",
+      "originalTitle": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-26T05:05:36.000Z",
+      "summary": "来源仅提供标题，未提供开放数据范围、微调方法或推理加速的具体细节。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "819f2bb8e324e5e7",
+      "title": "群体、集群与帮派：如何构建、训练和评估多智能体系统",
+      "originalTitle": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "summary": "来源仅提供标题，未说明多智能体系统的构建、训练和评估方法的具体内容。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "d7b28b808e94d828",
+      "title": "标普考虑因治理与“关键人”风险下调英伟达信用评级",
+      "originalTitle": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T22:44:32.000Z",
+      "summary": "信用评级机构可能将英伟达信用评级下调至 AA-，即第四高评级。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "fb19c642f1b75584",
+      "title": "OpenAI 称合并 Chat 与 Work 后，重度 ChatGPT 用户可能更早触及限制",
+      "originalTitle": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T20:03:27.000Z",
+      "summary": "OpenAI 将在合并 Chat 与 Work 体验后，在 ChatGPT 中引入统一的使用量计量方式。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "74d99a307b5dcf28",
+      "title": "黄仁勋被指违反英伟达行为准则，员工可能不会忘记",
+      "originalTitle": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T19:54:57.000Z",
+      "summary": "来源称大多数行为准则反映企业文化；在英伟达的案例中，这可能带来后果。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "b4fddd7d3c17c325",
+      "title": "Anthropic 的 Dario Amodei 称“将人类控制权交给 AI”的指控“荒谬”",
+      "originalTitle": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T19:44:24.000Z",
+      "summary": "Anthropic CEO Dario Amodei 反驳竞争对手称其主张将人类能动性交给 AI 的指控；与此同时，领先 AI 公司正日益自动化自身研究与模型开发。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "88bd06d7e0e9b82f",
+      "title": "科学家在 AI 智能体问题上划定的界限",
+      "originalTitle": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-25T18:52:55.000Z",
+      "summary": "来源仅提供标题，未说明科学家对 AI 智能体的具体担忧或界限。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    },
+    {
+      "id": "8b23f29d590b586f",
+      "title": "想给孩子买 AI 玩具过圣诞？纽约不允许",
+      "originalTitle": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T18:11:46.000Z",
+      "summary": "纽约禁止 AI 聊天机器人玩具五年；Common Sense Media 新研究指出其存在不当内容暴露和影响情感发展等安全失败。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "5b2e3451b1a570f5",
+      "title": "Character.AI 拍卖用户私聊的计划遭州总检察长质疑",
+      "originalTitle": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T17:35:58.000Z",
+      "summary": "多州总检察长称，拟议中的 Character.ai 破产出售包含超过 2100 万个美国账户的敏感个人数据，其中 210 万注册为未成年人。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "c232ab95006f02e0",
+      "title": "面向 LLM 助手的可验证社会推理",
+      "originalTitle": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "source": "Google Research",
+      "publishedAt": "2026-11-25T17:10:27.000Z",
+      "summary": "来源仅提供标题与简要标签“生成式 AI”，未说明可验证社会推理的具体方法或结果。",
+      "category": "模型与研究",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3476.88,
+        "changePercent": 0.0118,
+        "tradeDate": "2026-11-26",
+        "previousTradeDate": "2026-11-25",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10084.04,
+        "changePercent": -0.023,
+        "tradeDate": "2026-11-26",
+        "previousTradeDate": "2026-11-25",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2189.82,
+        "changePercent": 0.2858,
+        "tradeDate": "2026-11-26",
+        "previousTradeDate": "2026-11-25",
+        "provider": "腾讯财经 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-26",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
