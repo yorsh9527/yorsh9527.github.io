@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T04:56:11.613Z",
+  "coverageStart": "2026-11-26T16:00:00.000Z",
+  "coverageEnd": "2026-11-27T16:00:00.000Z",
+  "status": "ok",
+  "summaryStatus": "ai",
+  "news": [
+    {
+      "id": "c2bd7953104652e4",
+      "title": "Trainium3 上赛道：用 LTX-2.5 生成视频",
+      "originalTitle": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "summary": "标题显示将 Trainium3 与 LTX-2.5 结合用于视频生成，但来源未提供摘要，具体内容与结果不明。",
+      "category": "产品与工具",
+      "summaryType": "ai"
+    },
+    {
+      "id": "979e22972f743c14",
+      "title": "英伟达暂停向东南亚发货芯片",
+      "originalTitle": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "summary": "英伟达已告知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚运送服务器，因美国加大力度阻止AI芯片流入中国。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    },
+    {
+      "id": "b81da0547893b262",
+      "title": "《GTA VI》证明效率并非美德",
+      "originalTitle": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "summary": "摘要称，在Anthropic进入公开市场的同一天，一款耗费大量人工打磨的电子游戏成为史上最成功的娱乐发布之一。",
+      "category": "行业动态",
+      "summaryType": "ai"
+    }
+  ],
+  "market": {
+    "status": "ok",
+    "provider": "AKShare（公开日线数据）",
+    "indices": [
+      {
+        "code": "000001.SH",
+        "name": "上证指数",
+        "close": 3606.49,
+        "changePercent": 3.7278,
+        "tradeDate": "2026-11-27",
+        "previousTradeDate": "2026-11-26",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399001.SZ",
+        "name": "深证成指",
+        "close": 10814.02,
+        "changePercent": 7.239,
+        "tradeDate": "2026-11-27",
+        "previousTradeDate": "2026-11-26",
+        "provider": "东方财富 / AKShare"
+      },
+      {
+        "code": "399006.SZ",
+        "name": "创业板指",
+        "close": 2443.96,
+        "changePercent": 11.6055,
+        "tradeDate": "2026-11-27",
+        "previousTradeDate": "2026-11-26",
+        "provider": "东方财富 / AKShare"
+      }
+    ],
+    "tradeDate": "2026-11-27",
+    "message": "最近可用交易日收盘快照；涨跌幅按同一来源相邻交易日收盘价计算，非实时行情。",
+    "warnings": []
+  },
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "status": "ok"
+    },
+    {
+      "name": "Google Research",
+      "status": "ok"
+    },
+    {
+      "name": "TechCrunch AI",
+      "status": "ok"
+    },
+    {
+      "name": "MIT AI",
+      "status": "ok"
+    }
+  ],
+  "warnings": []
+}
